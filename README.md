@@ -3,6 +3,24 @@
 Application Streamlit qui prédit le salaire « juste » à partir de critères objectifs (poste, ancienneté,
 diplôme, performance, responsabilités…) **sans utiliser le genre**, puis explique chaque écart avec les valeurs SHAP.
 
+## Aperçu
+
+**Vue d'ensemble** : performance du modèle et importance globale SHAP
+
+![Vue d'ensemble](docs/screenshots/1_vue_ensemble.png)
+
+**Écart de genre** : écart brut = écart expliqué + écart inexpliqué
+
+![Écart de genre](docs/screenshots/2_ecart_genre.png)
+
+**Analyse individuelle** : cascade SHAP du salaire moyen au salaire réel
+
+![Analyse individuelle](docs/screenshots/3_analyse_individuelle.png)
+
+**Alertes & budget** : salariés sous le niveau prédit et coût du rattrapage
+
+![Alertes et budget](docs/screenshots/4_alertes_budget.png)
+
 ## Lancer
 
 ```bash
