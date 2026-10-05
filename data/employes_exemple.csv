@@ -1,0 +1,1501 @@
+id_employe,genre,age,poste,departement,niveau_diplome,anciennete_ans,performance,nb_personnes_managees,ville,salaire_annuel
+E0001,H,36,Chef de projet,IT,Bac+5,2.7,3,16,Paris,73800.0
+E0002,H,33,Développeur,IT,Bac+5,4.5,2,0,Lyon,52100.0
+E0003,F,38,Chef de projet,IT,Bac+2,4.0,3,2,Nantes,57500.0
+E0004,H,32,Data Analyst,IT,Bac+5,5.3,5,0,Lyon,64300.0
+E0005,H,34,Assistant RH,RH,Bac,9.0,3,0,Paris,38700.0
+E0006,H,41,Directeur,Direction,Bac+5,7.4,3,61,Lyon,137100.0
+E0007,H,32,Chef de projet,IT,Bac+5,7.4,2,13,Lyon,69500.0
+E0008,H,28,Chef de projet,IT,Bac+2,2.1,5,9,Paris,67700.0
+E0009,F,34,Comptable,Finance,Bac,4.4,4,0,Lille,36300.0
+E0010,H,37,Développeur,IT,Bac+5,14.8,3,0,Paris,66000.0
+E0011,F,43,Commercial,Ventes,Bac+2,13.6,3,0,Nantes,49600.0
+E0012,F,36,Responsable,Management,Bac+5,6.3,4,22,Lyon,84800.0
+E0013,H,43,Développeur,IT,Bac+5,11.0,4,0,Toulouse,60200.0
+E0014,H,39,Chef de projet,IT,Bac+5,8.5,4,13,Paris,81800.0
+E0015,H,44,Développeur,IT,Bac+2,11.8,5,0,Paris,63500.0
+E0016,F,38,Commercial,Ventes,Bac+5,11.4,3,0,Paris,59200.0
+E0017,F,30,Développeur,IT,Doctorat,6.7,3,0,Lyon,56600.0
+E0018,H,45,Assistant RH,RH,Bac,9.7,3,0,Paris,39600.0
+E0019,F,30,Chef de projet,IT,Bac+3,8.8,4,2,Lille,64900.0
+E0020,F,28,Développeur,IT,Bac+2,6.8,3,0,Paris,49500.0
+E0021,F,35,Chef de projet,IT,Bac+3,5.8,3,17,Paris,70700.0
+E0022,H,52,Commercial,Ventes,Bac+5,18.7,4,0,Lyon,63800.0
+E0023,H,35,Responsable,Management,Bac+3,6.8,3,11,Lille,76300.0
+E0024,H,42,Responsable,Management,Bac+5,10.6,4,10,Toulouse,88800.0
+E0025,H,37,Chef de projet,IT,Bac+3,17.8,2,15,Lille,78300.0
+E0026,F,35,Comptable,Finance,Bac+2,9.7,3,0,Nantes,42600.0
+E0027,H,29,Développeur,IT,Bac+2,9.4,3,0,Lille,53300.0
+E0028,F,37,Assistant RH,RH,Bac+5,6.8,4,0,Nantes,40100.0
+E0029,F,30,Comptable,Finance,Bac+5,8.9,4,0,Paris,52500.0
+E0030,F,27,Data Analyst,IT,Bac+3,5.4,3,0,Nantes,49300.0
+E0031,F,59,Data Analyst,IT,Bac+5,30.0,3,0,Lille,65200.0
+E0032,F,33,Responsable,Management,Bac,2.2,2,10,Paris,61900.0
+E0033,H,32,Commercial,Ventes,Bac+2,6.1,4,0,Nantes,47700.0
+E0034,H,39,Commercial,Ventes,Bac+2,9.8,5,0,Lyon,52100.0
+E0035,F,39,Développeur,IT,Doctorat,9.4,4,0,Lyon,60500.0
+E0036,F,32,Comptable,Finance,Bac+5,5.4,3,0,Paris,45200.0
+E0037,H,24,Comptable,Finance,Bac+5,1.5,3,0,Nantes,41300.0
+E0038,H,32,Développeur,IT,Bac,2.5,3,0,Toulouse,42500.0
+E0039,H,37,Commercial,Ventes,Bac+2,7.8,1,0,Paris,45600.0
+E0040,H,32,Data Analyst,IT,Bac+5,1.1,2,0,Lyon,52100.0
+E0041,H,38,Développeur,IT,Bac+3,10.2,2,0,Paris,60100.0
+E0042,F,37,Chef de projet,IT,Bac+5,14.3,2,14,Paris,81000.0
+E0043,F,41,Data Analyst,IT,Bac+5,11.5,4,0,Toulouse,62400.0
+E0044,F,40,Commercial,Ventes,Bac+3,12.9,3,0,Lyon,49000.0
+E0045,H,26,Chef de projet,IT,Bac+5,1.1,4,12,Lyon,69200.0
+E0046,F,31,Chef de projet,IT,Doctorat,5.6,5,22,Paris,72000.0
+E0047,F,27,Commercial,Ventes,Bac+3,3.1,3,0,Toulouse,41000.0
+E0048,H,32,Commercial,Ventes,Bac+5,1.8,3,0,Paris,47300.0
+E0049,F,26,Data Analyst,IT,Bac+5,4.8,4,0,Lille,53100.0
+E0050,F,41,Comptable,Finance,Bac+2,17.5,2,0,Paris,48200.0
+E0051,F,46,Comptable,Finance,Bac+5,20.6,3,0,Paris,56400.0
+E0052,F,37,Assistant RH,RH,Bac,3.4,3,0,Nantes,29200.0
+E0053,F,38,Chef de projet,IT,Bac+5,7.1,4,16,Paris,77500.0
+E0054,F,29,Data Analyst,IT,Bac+5,8.9,4,0,Nantes,60400.0
+E0055,F,38,Data Analyst,IT,Bac+5,5.6,4,0,Paris,65100.0
+E0056,H,47,Chef de projet,IT,Bac+3,15.0,4,21,Lille,78200.0
+E0057,H,27,Développeur,IT,Bac+5,4.8,3,0,Lille,52700.0
+E0058,H,21,Développeur,IT,Bac+2,4.2,4,0,Lille,49000.0
+E0059,F,30,Comptable,Finance,Bac+2,3.6,4,0,Paris,40200.0
+E0060,H,37,Comptable,Finance,Bac+2,5.6,3,0,Lille,39700.0
+E0061,H,34,Data Analyst,IT,Bac+5,0.4,5,0,Toulouse,56900.0
+E0062,H,29,Développeur,IT,Bac+3,5.8,4,0,Paris,57800.0
+E0063,H,41,Développeur,IT,Bac+2,7.4,3,0,Paris,57200.0
+E0064,H,26,Chef de projet,IT,Bac+5,7.8,2,2,Lille,62800.0
+E0065,H,28,Développeur,IT,Bac+3,2.9,3,0,Paris,51500.0
+E0066,H,33,Développeur,IT,Bac+3,7.7,4,0,Nantes,57400.0
+E0067,F,39,Développeur,IT,Bac+3,7.6,2,0,Lille,49100.0
+E0068,F,40,Commercial,Ventes,Bac+2,7.7,3,0,Paris,48600.0
+E0069,F,42,Assistant RH,RH,Bac+5,11.6,3,0,Nantes,41900.0
+E0070,H,24,Développeur,IT,Bac+3,2.8,4,0,Nantes,47900.0
+E0071,F,36,Comptable,Finance,Bac,5.7,4,0,Paris,41700.0
+E0072,H,30,Développeur,IT,Doctorat,1.4,4,0,Toulouse,55400.0
+E0073,H,31,Chef de projet,IT,Bac+5,10.9,3,13,Paris,81800.0
+E0074,H,22,Commercial,Ventes,Bac+5,3.2,2,0,Lyon,49400.0
+E0075,F,44,Assistant RH,RH,Bac+5,12.8,4,0,Lille,42300.0
+E0076,F,39,Commercial,Ventes,Bac+5,13.1,2,0,Paris,53000.0
+E0077,H,28,Commercial,Ventes,Bac+3,6.1,3,0,Lille,46700.0
+E0078,H,32,Data Analyst,IT,Bac+5,5.9,5,0,Paris,66300.0
+E0079,H,30,Développeur,IT,Bac+5,2.0,3,0,Lyon,53000.0
+E0080,H,34,Chef de projet,IT,Bac+2,7.0,3,8,Paris,70500.0
+E0081,H,32,Data Analyst,IT,Bac+2,11.5,4,0,Nantes,60000.0
+E0082,F,43,Commercial,Ventes,Bac+2,8.3,4,0,Lille,47300.0
+E0083,H,47,Chef de projet,IT,Bac+5,16.1,3,5,Lille,82100.0
+E0084,F,31,Comptable,Finance,Bac+5,5.2,3,0,Toulouse,41100.0
+E0085,F,31,Assistant RH,RH,Bac+5,5.2,2,0,Nantes,34700.0
+E0086,H,32,Assistant RH,RH,Bac+3,3.4,3,0,Lille,34400.0
+E0087,F,45,Data Analyst,IT,Bac+2,23.0,3,0,Lyon,63000.0
+E0088,H,30,Développeur,IT,Bac+3,2.0,3,0,Toulouse,47400.0
+E0089,F,33,Comptable,Finance,Bac+3,11.0,4,0,Nantes,45800.0
+E0090,F,38,Développeur,IT,Bac+5,11.7,1,0,Toulouse,52300.0
+E0091,F,34,Comptable,Finance,Bac+5,11.4,3,0,Paris,48000.0
+E0092,F,26,Data Analyst,IT,Bac+5,3.6,2,0,Lyon,52500.0
+E0093,H,40,Développeur,IT,Bac+5,6.1,3,0,Lille,47000.0
+E0094,H,37,Commercial,Ventes,Doctorat,10.0,1,0,Paris,55000.0
+E0095,H,32,Commercial,Ventes,Bac+3,4.3,2,0,Paris,45400.0
+E0096,H,24,Développeur,IT,Bac,5.5,5,0,Toulouse,42000.0
+E0097,F,29,Commercial,Ventes,Bac,4.3,5,0,Lyon,43600.0
+E0098,F,36,Assistant RH,RH,Bac+3,7.3,4,0,Paris,39500.0
+E0099,H,35,Comptable,Finance,Bac+2,7.0,3,0,Paris,44600.0
+E0100,F,36,Responsable,Management,Bac+2,18.0,4,9,Lyon,87600.0
+E0101,H,38,Responsable,Management,Doctorat,10.1,4,14,Nantes,94000.0
+E0102,F,31,Data Analyst,IT,Bac+2,2.4,3,0,Toulouse,47400.0
+E0103,H,35,Commercial,Ventes,Doctorat,2.6,1,0,Toulouse,45200.0
+E0104,H,35,Responsable,Management,Bac+5,11.1,4,8,Nantes,93400.0
+E0105,F,25,Chef de projet,IT,Bac+5,6.9,5,4,Nantes,72300.0
+E0106,F,45,Data Analyst,IT,Bac+5,22.1,3,0,Paris,73600.0
+E0107,H,45,Développeur,IT,Bac+3,22.1,3,0,Toulouse,60900.0
+E0108,F,33,Commercial,Ventes,Bac+5,3.4,3,0,Paris,47600.0
+E0109,F,25,Assistant RH,RH,Bac+2,8.4,3,0,Paris,37600.0
+E0110,H,28,Responsable,Management,Doctorat,2.6,4,16,Toulouse,82100.0
+E0111,H,44,Développeur,IT,Bac+3,11.0,3,0,Toulouse,55300.0
+E0112,H,47,Comptable,Finance,Bac+2,19.6,5,0,Paris,58200.0
+E0113,H,38,Commercial,Ventes,Bac+5,7.6,4,0,Nantes,56400.0
+E0114,H,26,Développeur,IT,Bac+5,5.1,1,0,Lyon,50400.0
+E0115,H,30,Comptable,Finance,Bac+3,9.0,4,0,Paris,50100.0
+E0116,F,45,Chef de projet,IT,Bac+5,12.5,4,2,Paris,78300.0
+E0117,F,40,Chef de projet,IT,Bac+2,12.6,3,13,Paris,76500.0
+E0118,H,33,Data Analyst,IT,Bac+5,5.1,3,0,Lyon,59900.0
+E0119,H,27,Développeur,IT,Bac+2,4.2,4,0,Lyon,51800.0
+E0120,F,36,Développeur,IT,Bac+2,8.1,3,0,Lyon,51900.0
+E0121,F,28,Développeur,IT,Bac+2,5.4,2,0,Paris,48200.0
+E0122,H,47,Data Analyst,IT,Bac+3,15.0,3,0,Toulouse,64500.0
+E0123,H,43,Assistant RH,RH,Bac+3,5.3,3,0,Nantes,37500.0
+E0124,F,36,Développeur,IT,Bac+3,7.3,4,0,Toulouse,53000.0
+E0125,F,33,Assistant RH,RH,Bac+2,8.9,2,0,Paris,34700.0
+E0126,H,21,Développeur,IT,Bac+2,2.0,3,0,Nantes,46500.0
+E0127,F,25,Commercial,Ventes,Bac+3,4.5,3,0,Lille,41900.0
+E0128,F,55,Comptable,Finance,Bac+2,21.5,4,0,Paris,54600.0
+E0129,F,35,Assistant RH,RH,Bac+5,12.2,3,0,Paris,44800.0
+E0130,H,31,Développeur,IT,Doctorat,5.3,4,0,Paris,60400.0
+E0131,F,41,Comptable,Finance,Bac+3,11.0,4,0,Paris,49700.0
+E0132,H,48,Responsable,Management,Bac+5,14.8,2,7,Lyon,92900.0
+E0133,H,32,Développeur,IT,Bac,5.9,4,0,Paris,53300.0
+E0134,H,37,Commercial,Ventes,Bac,11.8,3,0,Paris,52400.0
+E0135,H,38,Développeur,IT,Bac+5,10.7,4,0,Nantes,64200.0
+E0136,F,27,Assistant RH,RH,Bac+5,2.7,3,0,Paris,37400.0
+E0137,H,31,Responsable,Management,Bac+5,5.9,3,17,Paris,89400.0
+E0138,H,47,Développeur,IT,Bac,18.3,3,0,Nantes,60000.0
+E0139,F,49,Chef de projet,IT,Bac+5,21.1,3,15,Paris,94100.0
+E0140,F,48,Assistant RH,RH,Bac+3,12.2,4,0,Paris,44400.0
+E0141,H,33,Développeur,IT,Bac+3,4.4,4,0,Paris,56400.0
+E0142,F,32,Développeur,IT,Bac+2,0.8,1,0,Paris,43200.0
+E0143,H,27,Responsable,Management,Doctorat,3.9,3,14,Lyon,84700.0
+E0144,F,32,Développeur,IT,Bac,2.4,3,0,Paris,45200.0
+E0145,F,43,Développeur,IT,Bac+5,19.1,3,0,Paris,73100.0
+E0146,H,30,Commercial,Ventes,Bac+5,1.4,2,0,Toulouse,42900.0
+E0147,F,32,Commercial,Ventes,Bac+5,2.7,3,0,Toulouse,45600.0
+E0148,H,35,Développeur,IT,Bac+5,8.0,4,0,Paris,63400.0
+E0149,H,44,Développeur,IT,Bac+5,6.9,3,0,Paris,58000.0
+E0150,H,50,Assistant RH,RH,Bac+2,17.7,4,0,Lyon,45300.0
+E0151,F,42,Chef de projet,IT,Bac,10.3,3,8,Lille,59900.0
+E0152,F,36,Responsable,Management,Bac+5,6.2,3,13,Lille,77900.0
+E0153,F,49,Comptable,Finance,Bac+3,15.1,3,0,Paris,51300.0
+E0154,F,26,Développeur,IT,Bac+2,5.1,3,0,Paris,48900.0
+E0155,H,51,Comptable,Finance,Bac+2,18.6,3,0,Lyon,53100.0
+E0156,H,27,Data Analyst,IT,Bac+3,3.5,5,0,Toulouse,57900.0
+E0157,F,31,Commercial,Ventes,Bac,6.7,4,0,Toulouse,44600.0
+E0158,H,30,Data Analyst,IT,Bac,1.0,4,0,Paris,51300.0
+E0159,F,45,Data Analyst,IT,Bac+5,12.6,2,0,Nantes,60500.0
+E0160,F,30,Chef de projet,IT,Bac+3,7.7,1,9,Paris,56300.0
+E0161,F,44,Comptable,Finance,Doctorat,18.6,2,0,Nantes,52200.0
+E0162,H,33,Responsable,Management,Doctorat,5.7,5,5,Toulouse,88900.0
+E0163,H,28,Commercial,Ventes,Bac+2,2.0,4,0,Lyon,38600.0
+E0164,F,40,Assistant RH,RH,Bac+5,9.4,3,0,Paris,40700.0
+E0165,H,45,Développeur,IT,Bac+5,4.6,5,0,Nantes,57200.0
+E0166,H,40,Commercial,Ventes,Bac+5,11.5,2,0,Lyon,53700.0
+E0167,H,28,Chef de projet,IT,Bac,3.6,3,3,Lille,54800.0
+E0168,F,38,Chef de projet,IT,Bac+2,16.6,2,17,Paris,78200.0
+E0169,F,33,Commercial,Ventes,Bac,7.3,3,0,Toulouse,43200.0
+E0170,H,29,Responsable,Management,Bac+5,6.2,5,21,Paris,94800.0
+E0171,F,45,Commercial,Ventes,Doctorat,15.9,4,0,Paris,65400.0
+E0172,H,42,Développeur,IT,Bac+5,12.8,2,0,Paris,63400.0
+E0173,H,29,Commercial,Ventes,Bac+5,4.0,3,0,Paris,50600.0
+E0174,F,47,Responsable,Management,Doctorat,12.5,3,3,Paris,94200.0
+E0175,H,35,Comptable,Finance,Bac+5,10.9,2,0,Nantes,47100.0
+E0176,H,33,Assistant RH,RH,Bac,6.5,3,0,Paris,36900.0
+E0177,H,41,Développeur,IT,Bac+5,11.9,3,0,Paris,66500.0
+E0178,H,47,Directeur,Direction,Bac+3,16.5,3,32,Paris,145800.0
+E0179,H,39,Responsable,Management,Bac,6.6,3,9,Paris,79000.0
+E0180,H,35,Data Analyst,IT,Bac+3,6.6,3,0,Toulouse,57300.0
+E0181,H,38,Responsable,Management,Doctorat,6.4,5,20,Toulouse,91900.0
+E0182,H,28,Responsable,Management,Bac+2,3.8,3,17,Paris,80900.0
+E0183,H,37,Développeur,IT,Bac+3,6.6,3,0,Lille,51800.0
+E0184,F,37,Commercial,Ventes,Bac+2,6.1,3,0,Lille,36200.0
+E0185,F,39,Chef de projet,IT,Bac,5.8,4,9,Toulouse,59800.0
+E0186,F,26,Data Analyst,IT,Bac,5.7,2,0,Paris,49700.0
+E0187,H,26,Commercial,Ventes,Bac+5,2.7,2,0,Paris,49200.0
+E0188,F,44,Assistant RH,RH,Bac+5,13.6,4,0,Lyon,44600.0
+E0189,H,21,Data Analyst,IT,Bac+2,4.5,4,0,Toulouse,53000.0
+E0190,F,46,Commercial,Ventes,Bac+2,17.1,3,0,Lille,48700.0
+E0191,H,34,Responsable,Management,Bac+2,3.2,3,15,Lyon,73900.0
+E0192,H,44,Commercial,Ventes,Bac,19.6,5,0,Paris,60700.0
+E0193,F,31,Comptable,Finance,Bac+5,5.3,2,0,Lille,40500.0
+E0194,H,35,Chef de projet,IT,Bac+5,12.6,2,7,Toulouse,76100.0
+E0195,H,33,Comptable,Finance,Bac+5,7.6,3,0,Lyon,46700.0
+E0196,F,27,Comptable,Finance,Bac+3,2.4,3,0,Nantes,38400.0
+E0197,F,27,Développeur,IT,Bac+5,2.5,3,0,Lyon,49700.0
+E0198,H,28,Chef de projet,IT,Bac,4.2,4,13,Lyon,63100.0
+E0199,H,31,Comptable,Finance,Bac+2,5.1,3,0,Lyon,40700.0
+E0200,H,33,Commercial,Ventes,Doctorat,6.8,3,0,Lille,54000.0
+E0201,H,43,Chef de projet,IT,Bac+5,8.8,3,16,Toulouse,74000.0
+E0202,H,32,Responsable,Management,Bac+5,6.2,4,16,Lyon,86900.0
+E0203,H,37,Développeur,IT,Bac+5,8.5,2,0,Paris,58000.0
+E0204,F,34,Comptable,Finance,Bac+5,9.5,3,0,Lyon,47200.0
+E0205,F,31,Assistant RH,RH,Bac+5,6.0,4,0,Paris,40400.0
+E0206,H,31,Commercial,Ventes,Bac+3,10.8,3,0,Paris,54900.0
+E0207,F,33,Comptable,Finance,Bac,12.4,2,0,Paris,42500.0
+E0208,H,32,Data Analyst,IT,Bac,9.6,3,0,Lyon,55200.0
+E0209,H,38,Comptable,Finance,Bac+2,10.0,4,0,Paris,47600.0
+E0210,H,39,Développeur,IT,Bac,8.0,2,0,Paris,48400.0
+E0211,H,34,Data Analyst,IT,Bac+3,14.4,4,0,Lille,66000.0
+E0212,H,32,Développeur,IT,Bac+5,6.9,4,0,Paris,59000.0
+E0213,H,26,Comptable,Finance,Bac+5,4.3,3,0,Nantes,44300.0
+E0214,H,33,Chef de projet,IT,Bac+5,7.0,3,22,Toulouse,77600.0
+E0215,F,34,Data Analyst,IT,Bac+2,2.4,4,0,Nantes,48500.0
+E0216,H,27,Data Analyst,IT,Bac+5,2.2,3,0,Paris,60400.0
+E0217,F,39,Comptable,Finance,Bac+3,12.4,4,0,Paris,50600.0
+E0218,F,50,Comptable,Finance,Bac,17.3,4,0,Nantes,48300.0
+E0219,H,34,Responsable,Management,Bac+2,5.5,2,23,Lyon,75100.0
+E0220,H,36,Commercial,Ventes,Bac+3,12.5,4,0,Paris,55800.0
+E0221,F,29,Commercial,Ventes,Bac+2,1.2,3,0,Lyon,39700.0
+E0222,F,33,Développeur,IT,Bac+5,9.6,3,0,Lyon,59200.0
+E0223,H,36,Data Analyst,IT,Bac+5,6.9,3,0,Paris,65200.0
+E0224,H,48,Responsable,Management,Bac+5,19.1,3,17,Nantes,100200.0
+E0225,H,28,Commercial,Ventes,Bac+2,6.2,4,0,Paris,51200.0
+E0226,F,31,Responsable,Management,Bac+5,3.0,4,7,Paris,82300.0
+E0227,F,28,Assistant RH,RH,Bac+5,1.9,3,0,Lille,33000.0
+E0228,H,36,Développeur,IT,Bac+2,7.0,3,0,Paris,58400.0
+E0229,F,38,Développeur,IT,Bac+5,8.0,4,0,Nantes,55200.0
+E0230,F,35,Comptable,Finance,Bac+3,6.0,4,0,Lyon,43600.0
+E0231,H,38,Comptable,Finance,Bac+3,12.7,3,0,Paris,52700.0
+E0232,F,47,Développeur,IT,Bac+2,16.1,3,0,Toulouse,55600.0
+E0233,H,29,Responsable,Management,Bac+3,5.4,4,10,Paris,83800.0
+E0234,H,23,Développeur,IT,Bac,1.4,3,0,Paris,47700.0
+E0235,H,23,Responsable,Management,Bac+2,8.5,3,9,Toulouse,77600.0
+E0236,H,41,Chef de projet,IT,Bac+2,14.6,3,14,Lille,74500.0
+E0237,H,29,Développeur,IT,Doctorat,5.4,3,0,Nantes,54300.0
+E0238,F,39,Chef de projet,IT,Bac+2,10.0,1,18,Paris,68800.0
+E0239,F,22,Assistant RH,RH,Bac+3,2.9,2,0,Paris,34200.0
+E0240,H,33,Comptable,Finance,Bac+3,8.4,4,0,Nantes,45800.0
+E0241,F,39,Chef de projet,IT,Bac+5,10.1,5,16,Paris,84700.0
+E0242,F,31,Chef de projet,IT,Bac+5,8.5,3,11,Paris,74500.0
+E0243,F,51,Commercial,Ventes,Bac+5,22.3,2,0,Lille,54400.0
+E0244,H,42,Développeur,IT,Bac+2,17.2,4,0,Paris,67400.0
+E0245,H,38,Développeur,IT,Bac+2,11.2,3,0,Paris,58500.0
+E0246,H,43,Chef de projet,IT,Bac+5,13.7,5,4,Paris,95400.0
+E0247,H,39,Développeur,IT,Bac+3,8.3,3,0,Lyon,47900.0
+E0248,H,34,Développeur,IT,Bac+5,6.7,3,0,Nantes,54200.0
+E0249,H,29,Commercial,Ventes,Bac+5,5.0,3,0,Toulouse,51300.0
+E0250,H,28,Développeur,IT,Bac+3,2.8,3,0,Paris,51900.0
+E0251,H,47,Data Analyst,IT,Doctorat,17.7,4,0,Paris,75500.0
+E0252,F,46,Chef de projet,IT,Bac+5,22.8,2,3,Lyon,80100.0
+E0253,H,33,Développeur,IT,Bac+2,7.2,4,0,Lyon,51200.0
+E0254,H,33,Commercial,Ventes,Bac+3,7.2,4,0,Lyon,50600.0
+E0255,F,37,Commercial,Ventes,Bac,10.4,4,0,Toulouse,45300.0
+E0256,H,29,Data Analyst,IT,Bac+5,6.3,4,0,Lyon,62500.0
+E0257,F,23,Chef de projet,IT,Bac+2,3.1,3,21,Lyon,62000.0
+E0258,H,31,Comptable,Finance,Bac+3,2.4,3,0,Toulouse,39300.0
+E0259,H,53,Assistant RH,RH,Bac+5,22.3,4,0,Paris,53000.0
+E0260,H,22,Développeur,IT,Bac,1.7,3,0,Toulouse,44500.0
+E0261,F,37,Comptable,Finance,Bac,8.8,2,0,Lyon,38500.0
+E0262,F,33,Chef de projet,IT,Bac+5,1.9,3,19,Lyon,65100.0
+E0263,F,36,Commercial,Ventes,Bac,6.5,3,0,Toulouse,41400.0
+E0264,F,31,Comptable,Finance,Bac+3,5.4,4,0,Lyon,43900.0
+E0265,F,25,Responsable,Management,Bac+3,2.2,3,16,Lyon,71100.0
+E0266,F,38,Comptable,Finance,Bac+2,10.6,4,0,Paris,46500.0
+E0267,H,31,Commercial,Ventes,Bac+2,2.9,5,0,Nantes,43400.0
+E0268,F,29,Comptable,Finance,Bac+5,1.9,3,0,Nantes,37800.0
+E0269,F,38,Comptable,Finance,Doctorat,11.4,4,0,Paris,54300.0
+E0270,H,28,Assistant RH,RH,Bac+2,5.4,1,0,Lille,31500.0
+E0271,F,33,Assistant RH,RH,Doctorat,3.9,2,0,Nantes,35000.0
+E0272,H,41,Comptable,Finance,Bac+5,11.9,2,0,Lyon,49600.0
+E0273,F,31,Assistant RH,RH,Bac+5,2.8,3,0,Paris,36600.0
+E0274,H,29,Développeur,IT,Bac+5,1.5,3,0,Lyon,49800.0
+E0275,H,49,Data Analyst,IT,Bac+5,15.4,3,0,Paris,75900.0
+E0276,H,45,Commercial,Ventes,Bac+5,20.4,3,0,Paris,68600.0
+E0277,H,39,Commercial,Ventes,Bac+3,6.4,2,0,Lyon,45400.0
+E0278,H,24,Développeur,IT,Bac+3,0.3,4,0,Paris,51800.0
+E0279,F,38,Chef de projet,IT,Bac+3,6.3,1,9,Paris,60400.0
+E0280,H,44,Chef de projet,IT,Bac+2,12.3,4,3,Nantes,69200.0
+E0281,F,40,Assistant RH,RH,Bac+5,14.5,4,0,Paris,47100.0
+E0282,H,37,Comptable,Finance,Bac,3.1,4,0,Toulouse,38900.0
+E0283,F,34,Commercial,Ventes,Bac+2,5.6,3,0,Toulouse,41900.0
+E0284,F,32,Commercial,Ventes,Bac,8.3,4,0,Nantes,43300.0
+E0285,F,37,Développeur,IT,Bac+2,11.9,4,0,Toulouse,54600.0
+E0286,H,43,Développeur,IT,Bac+5,11.0,5,0,Toulouse,64400.0
+E0287,F,41,Assistant RH,RH,Bac+5,9.9,5,0,Paris,44700.0
+E0288,H,37,Commercial,Ventes,Bac+3,14.4,3,0,Lille,56300.0
+E0289,H,33,Développeur,IT,Bac,6.7,3,0,Paris,51500.0
+E0290,F,46,Assistant RH,RH,Bac+3,17.8,4,0,Nantes,44200.0
+E0291,H,30,Chef de projet,IT,Bac+3,4.6,1,10,Lyon,60800.0
+E0292,F,48,Assistant RH,RH,Bac+5,11.2,3,0,Paris,44100.0
+E0293,F,33,Responsable,Management,Bac+5,5.1,4,11,Paris,87400.0
+E0294,F,33,Assistant RH,RH,Bac+3,6.4,4,0,Toulouse,37700.0
+E0295,H,39,Chef de projet,IT,Bac+3,7.2,3,9,Paris,71400.0
+E0296,F,30,Responsable,Management,Doctorat,4.9,3,23,Paris,90900.0
+E0297,H,46,Directeur,Direction,Bac+5,14.8,2,27,Paris,149400.0
+E0298,F,26,Chef de projet,IT,Bac+3,5.3,3,17,Lyon,66900.0
+E0299,H,32,Chef de projet,IT,Bac+3,6.9,4,12,Lille,68800.0
+E0300,H,41,Développeur,IT,Bac,10.3,4,0,Lille,51800.0
+E0301,H,62,Chef de projet,IT,Doctorat,28.4,3,22,Lyon,96800.0
+E0302,F,35,Comptable,Finance,Bac+3,10.6,3,0,Paris,48500.0
+E0303,F,31,Développeur,IT,Bac+2,7.3,4,0,Paris,56400.0
+E0304,H,30,Développeur,IT,Doctorat,1.2,4,0,Lyon,55100.0
+E0305,H,31,Chef de projet,IT,Bac+5,6.3,3,21,Lille,72000.0
+E0306,H,30,Développeur,IT,Bac,4.3,3,0,Lille,42100.0
+E0307,F,36,Commercial,Ventes,Bac,5.6,2,0,Lyon,38300.0
+E0308,H,30,Développeur,IT,Bac,5.0,4,0,Nantes,47500.0
+E0309,H,29,Commercial,Ventes,Bac+5,10.2,3,0,Lyon,53400.0
+E0310,F,28,Comptable,Finance,Bac,6.2,3,0,Nantes,37700.0
+E0311,F,31,Développeur,IT,Doctorat,3.5,4,0,Lyon,52900.0
+E0312,H,32,Développeur,IT,Doctorat,12.7,4,0,Nantes,66200.0
+E0313,H,28,Commercial,Ventes,Bac+3,2.6,4,0,Lyon,45900.0
+E0314,F,29,Commercial,Ventes,Bac+5,7.1,3,0,Toulouse,49800.0
+E0315,H,40,Commercial,Ventes,Bac+2,6.3,3,0,Lyon,45700.0
+E0316,H,45,Commercial,Ventes,Bac,8.9,5,0,Paris,53100.0
+E0317,H,37,Commercial,Ventes,Bac+5,14.5,5,0,Paris,67400.0
+E0318,H,59,Data Analyst,IT,Bac+2,31.2,5,0,Lyon,73200.0
+E0319,H,30,Commercial,Ventes,Bac,7.3,4,0,Lyon,47500.0
+E0320,H,30,Responsable,Management,Bac+3,4.2,3,23,Nantes,77900.0
+E0321,H,38,Responsable,Management,Bac,3.9,3,17,Lille,65500.0
+E0322,H,29,Développeur,IT,Bac+3,3.9,3,0,Paris,53400.0
+E0323,H,35,Commercial,Ventes,Bac+5,8.7,5,0,Nantes,56100.0
+E0324,H,24,Développeur,IT,Bac+5,1.0,3,0,Lille,48800.0
+E0325,H,34,Chef de projet,IT,Bac+5,2.4,4,4,Lyon,65900.0
+E0326,F,23,Data Analyst,IT,Bac+5,8.7,4,0,Lyon,63500.0
+E0327,H,38,Chef de projet,IT,Bac+3,13.1,5,14,Paris,87600.0
+E0328,H,40,Développeur,IT,Bac+5,13.1,5,0,Lyon,66500.0
+E0329,H,32,Développeur,IT,Bac+3,7.6,3,0,Lille,51700.0
+E0330,H,42,Commercial,Ventes,Bac+2,12.0,3,0,Toulouse,53000.0
+E0331,H,47,Data Analyst,IT,Doctorat,14.7,5,0,Nantes,77800.0
+E0332,H,27,Comptable,Finance,Bac+2,5.2,3,0,Paris,44500.0
+E0333,H,49,Data Analyst,IT,Bac,13.7,2,0,Nantes,54600.0
+E0334,F,23,Chef de projet,IT,Bac+2,1.8,5,19,Lille,59900.0
+E0335,F,35,Comptable,Finance,Bac+3,2.4,4,0,Paris,41100.0
+E0336,F,33,Développeur,IT,Bac+3,5.5,3,0,Lille,48000.0
+E0337,F,27,Assistant RH,RH,Bac+3,1.6,2,0,Paris,32900.0
+E0338,H,36,Data Analyst,IT,Bac+5,10.4,3,0,Paris,67800.0
+E0339,F,32,Assistant RH,RH,Bac+2,4.7,5,0,Paris,37200.0
+E0340,H,34,Responsable,Management,Bac+3,6.4,3,6,Paris,80800.0
+E0341,F,30,Comptable,Finance,Bac+3,6.6,3,0,Toulouse,40500.0
+E0342,H,31,Responsable,Management,Bac+5,5.4,3,5,Lyon,82700.0
+E0343,F,28,Chef de projet,IT,Bac+2,3.9,4,14,Paris,63500.0
+E0344,H,32,Développeur,IT,Bac+2,10.0,4,0,Lyon,57200.0
+E0345,F,28,Chef de projet,IT,Bac+3,4.6,3,16,Lyon,66400.0
+E0346,H,29,Chef de projet,IT,Bac+5,6.5,3,12,Paris,76300.0
+E0347,F,34,Responsable,Management,Bac+5,9.0,3,24,Paris,90400.0
+E0348,H,43,Commercial,Ventes,Bac+5,14.6,3,0,Nantes,59500.0
+E0349,H,41,Développeur,IT,Bac+5,13.9,3,0,Paris,66600.0
+E0350,F,40,Assistant RH,RH,Bac+3,4.9,3,0,Lille,33200.0
+E0351,F,22,Développeur,IT,Bac,3.7,3,0,Paris,45200.0
+E0352,H,45,Comptable,Finance,Bac+2,16.5,3,0,Lille,45800.0
+E0353,H,32,Développeur,IT,Bac,4.6,3,0,Lille,44900.0
+E0354,H,40,Développeur,IT,Bac+3,9.8,2,0,Paris,56100.0
+E0355,H,31,Développeur,IT,Bac+3,1.5,2,0,Paris,49300.0
+E0356,H,27,Développeur,IT,Bac+3,0.9,4,0,Toulouse,49600.0
+E0357,F,35,Chef de projet,IT,Bac+5,7.3,3,2,Lyon,70500.0
+E0358,F,30,Chef de projet,IT,Bac+3,5.9,2,21,Nantes,63900.0
+E0359,H,41,Développeur,IT,Bac+5,11.5,5,0,Paris,71900.0
+E0360,H,23,Développeur,IT,Bac+5,3.9,3,0,Paris,57300.0
+E0361,H,39,Responsable,Management,Bac+3,8.5,4,16,Lyon,85800.0
+E0362,H,38,Comptable,Finance,Bac+3,11.1,3,0,Toulouse,44300.0
+E0363,H,29,Comptable,Finance,Bac+5,4.0,4,0,Paris,50100.0
+E0364,F,32,Assistant RH,RH,Bac+5,5.5,3,0,Lille,34700.0
+E0365,H,29,Data Analyst,IT,Bac+3,2.8,2,0,Nantes,51800.0
+E0366,H,44,Développeur,IT,Bac+3,11.7,4,0,Paris,65200.0
+E0367,H,50,Chef de projet,IT,Bac+5,10.1,4,9,Paris,81600.0
+E0368,F,42,Data Analyst,IT,Bac+5,10.6,3,0,Paris,65900.0
+E0369,H,31,Commercial,Ventes,Bac+2,5.9,4,0,Lyon,50300.0
+E0370,H,40,Responsable,Management,Bac+3,10.0,3,13,Nantes,86800.0
+E0371,F,36,Chef de projet,IT,Bac+5,6.2,4,14,Lyon,70500.0
+E0372,H,42,Commercial,Ventes,Bac,18.3,4,0,Paris,58200.0
+E0373,H,29,Commercial,Ventes,Bac+5,6.9,2,0,Nantes,49000.0
+E0374,H,40,Commercial,Ventes,Bac+2,13.4,4,0,Nantes,53400.0
+E0375,H,36,Comptable,Finance,Bac+3,5.9,5,0,Lyon,47600.0
+E0376,H,36,Comptable,Finance,Bac+3,15.9,4,0,Nantes,53300.0
+E0377,F,28,Responsable,Management,Bac,3.7,2,19,Paris,66200.0
+E0378,H,39,Développeur,IT,Bac+5,9.3,4,0,Nantes,61000.0
+E0379,H,31,Commercial,Ventes,Bac+3,4.3,3,0,Lyon,46200.0
+E0380,H,41,Data Analyst,IT,Doctorat,8.3,3,0,Lyon,65300.0
+E0381,H,26,Développeur,IT,Bac+2,4.6,4,0,Paris,54500.0
+E0382,H,43,Responsable,Management,Bac+5,6.9,3,21,Nantes,88300.0
+E0383,H,26,Chef de projet,IT,Bac+5,5.1,4,13,Nantes,73800.0
+E0384,H,30,Développeur,IT,Bac+5,10.8,4,0,Paris,65700.0
+E0385,F,36,Commercial,Ventes,Bac+2,9.5,3,0,Toulouse,45900.0
+E0386,H,27,Directeur,Direction,Bac+5,4.2,5,28,Lille,122400.0
+E0387,F,31,Data Analyst,IT,Bac+3,4.1,3,0,Paris,52400.0
+E0388,F,30,Responsable,Management,Doctorat,3.4,3,4,Nantes,74800.0
+E0389,H,29,Comptable,Finance,Bac+3,2.9,3,0,Lyon,42500.0
+E0390,H,35,Chef de projet,IT,Bac+2,11.3,2,10,Toulouse,65000.0
+E0391,F,32,Développeur,IT,Bac+2,3.3,4,0,Paris,50100.0
+E0392,H,35,Comptable,Finance,Bac+5,8.8,3,0,Paris,51000.0
+E0393,H,36,Développeur,IT,Doctorat,4.8,5,0,Lyon,61500.0
+E0394,F,39,Data Analyst,IT,Bac,13.1,5,0,Paris,61600.0
+E0395,F,44,Assistant RH,RH,Bac+5,21.2,4,0,Nantes,45100.0
+E0396,F,21,Développeur,IT,Bac+5,0.3,3,0,Lyon,45600.0
+E0397,H,30,Chef de projet,IT,Bac,3.7,4,20,Paris,59600.0
+E0398,F,27,Commercial,Ventes,Bac+2,4.7,1,0,Lyon,38800.0
+E0399,F,28,Développeur,IT,Bac+5,6.0,4,0,Toulouse,53200.0
+E0400,F,35,Développeur,IT,Bac+5,5.7,3,0,Lille,53400.0
+E0401,H,22,Commercial,Ventes,Bac,2.4,5,0,Lyon,42900.0
+E0402,F,54,Responsable,Management,Bac+5,21.4,3,14,Paris,103900.0
+E0403,H,34,Chef de projet,IT,Bac+3,5.9,3,17,Paris,75200.0
+E0404,F,36,Comptable,Finance,Bac+5,9.5,5,0,Toulouse,49900.0
+E0405,H,33,Directeur,Direction,Bac+5,9.7,3,44,Lille,128200.0
+E0406,H,32,Chef de projet,IT,Bac+5,1.9,4,16,Nantes,67300.0
+E0407,H,32,Commercial,Ventes,Bac+3,5.3,4,0,Toulouse,48400.0
+E0408,F,36,Chef de projet,IT,Bac+2,11.3,3,17,Paris,77300.0
+E0409,H,44,Comptable,Finance,Bac+3,16.6,3,0,Nantes,50100.0
+E0410,H,26,Directeur,Direction,Bac+2,5.4,3,57,Paris,125600.0
+E0411,F,23,Data Analyst,IT,Bac+5,2.2,4,0,Paris,58200.0
+E0412,F,27,Data Analyst,IT,Bac+2,4.4,5,0,Lyon,54300.0
+E0413,H,34,Assistant RH,RH,Bac+3,5.2,3,0,Lyon,37300.0
+E0414,H,32,Responsable,Management,Bac,5.1,4,13,Toulouse,71000.0
+E0415,F,35,Assistant RH,RH,Bac+2,3.5,3,0,Paris,33800.0
+E0416,F,25,Commercial,Ventes,Bac+2,2.0,3,0,Lille,39100.0
+E0417,H,32,Comptable,Finance,Bac+5,2.8,4,0,Lille,44000.0
+E0418,H,31,Chef de projet,IT,Bac+5,4.5,4,13,Nantes,70800.0
+E0419,F,34,Comptable,Finance,Bac,11.2,3,0,Toulouse,37000.0
+E0420,H,43,Responsable,Management,Bac+5,14.0,3,18,Lyon,95000.0
+E0421,H,34,Data Analyst,IT,Bac+5,7.5,3,0,Lyon,64300.0
+E0422,F,27,Assistant RH,RH,Bac+3,2.8,2,0,Paris,34000.0
+E0423,F,32,Assistant RH,RH,Bac+5,4.7,3,0,Paris,39600.0
+E0424,F,27,Assistant RH,RH,Bac+3,1.0,4,0,Toulouse,32400.0
+E0425,F,43,Développeur,IT,Bac+2,16.8,3,0,Lyon,58500.0
+E0426,F,29,Chef de projet,IT,Bac+3,4.1,3,23,Paris,66300.0
+E0427,F,31,Commercial,Ventes,Bac,9.0,4,0,Paris,45700.0
+E0428,H,41,Chef de projet,IT,Bac+5,13.4,3,4,Lyon,82100.0
+E0429,F,44,Assistant RH,RH,Bac+5,19.8,3,0,Lille,44400.0
+E0430,H,35,Chef de projet,IT,Bac+5,12.0,5,22,Paris,93400.0
+E0431,H,31,Responsable,Management,Bac+5,5.1,2,15,Lille,68600.0
+E0432,H,40,Chef de projet,IT,Bac+5,9.8,3,20,Nantes,76100.0
+E0433,H,47,Data Analyst,IT,Doctorat,19.3,3,0,Lille,75900.0
+E0434,H,29,Chef de projet,IT,Bac+2,4.1,3,11,Paris,69600.0
+E0435,F,27,Assistant RH,RH,Bac,1.9,3,0,Nantes,28700.0
+E0436,F,33,Comptable,Finance,Bac+5,3.5,3,0,Paris,44500.0
+E0437,F,27,Comptable,Finance,Bac+3,9.4,3,0,Lyon,44000.0
+E0438,H,35,Développeur,IT,Bac+3,5.2,4,0,Lille,51600.0
+E0439,F,26,Data Analyst,IT,Bac,6.5,3,0,Nantes,50700.0
+E0440,F,32,Développeur,IT,Bac+5,10.5,3,0,Paris,60400.0
+E0441,F,28,Chef de projet,IT,Bac+2,3.4,3,24,Toulouse,63400.0
+E0442,F,42,Comptable,Finance,Bac+2,6.2,5,0,Paris,45300.0
+E0443,H,38,Data Analyst,IT,Bac,4.6,2,0,Nantes,47400.0
+E0444,F,49,Comptable,Finance,Bac+3,18.8,4,0,Toulouse,53200.0
+E0445,H,40,Commercial,Ventes,Bac+5,11.7,3,0,Lyon,56800.0
+E0446,H,25,Data Analyst,IT,Bac+3,5.2,5,0,Lille,57000.0
+E0447,F,33,Directeur,Direction,Bac+5,5.0,3,74,Nantes,130800.0
+E0448,H,45,Développeur,IT,Bac+5,20.2,2,0,Lille,65900.0
+E0449,F,43,Assistant RH,RH,Bac+3,19.2,3,0,Nantes,44000.0
+E0450,H,37,Développeur,IT,Bac+5,9.3,3,0,Nantes,52600.0
+E0451,H,32,Assistant RH,RH,Bac+5,6.7,4,0,Paris,44200.0
+E0452,F,33,Responsable,Management,Bac+5,2.4,4,6,Lille,72300.0
+E0453,H,23,Data Analyst,IT,Bac,3.5,4,0,Paris,53700.0
+E0454,H,30,Comptable,Finance,Bac,2.2,2,0,Toulouse,35100.0
+E0455,H,37,Assistant RH,RH,Doctorat,13.8,4,0,Paris,52300.0
+E0456,H,28,Comptable,Finance,Bac+5,2.4,3,0,Paris,45800.0
+E0457,H,33,Directeur,Direction,Doctorat,4.9,5,48,Toulouse,137900.0
+E0458,F,24,Développeur,IT,Bac+5,1.2,4,0,Paris,54700.0
+E0459,H,29,Chef de projet,IT,Bac,1.8,3,23,Lyon,62000.0
+E0460,H,37,Développeur,IT,Bac+5,10.8,4,0,Lille,61600.0
+E0461,H,33,Développeur,IT,Bac+3,8.4,3,0,Paris,59300.0
+E0462,F,32,Comptable,Finance,Bac+5,6.8,3,0,Paris,48100.0
+E0463,H,31,Responsable,Management,Bac,5.0,3,6,Lyon,71200.0
+E0464,F,25,Commercial,Ventes,Bac+2,1.5,4,0,Paris,43800.0
+E0465,H,32,Développeur,IT,Bac+5,4.5,3,0,Paris,58900.0
+E0466,F,32,Data Analyst,IT,Bac+5,6.0,2,0,Paris,58200.0
+E0467,H,35,Data Analyst,IT,Bac+5,10.3,4,0,Lyon,70200.0
+E0468,H,47,Responsable,Management,Bac+3,13.3,2,5,Paris,92100.0
+E0469,F,40,Comptable,Finance,Bac+3,11.0,4,0,Paris,48600.0
+E0470,H,34,Développeur,IT,Doctorat,8.4,2,0,Nantes,61200.0
+E0471,F,34,Commercial,Ventes,Bac+3,6.8,3,0,Nantes,36400.0
+E0472,H,31,Développeur,IT,Bac+3,7.8,4,0,Paris,60900.0
+E0473,H,30,Comptable,Finance,Bac+5,4.3,2,0,Paris,44400.0
+E0474,F,33,Comptable,Finance,Bac+3,7.2,4,0,Toulouse,44700.0
+E0475,F,28,Commercial,Ventes,Bac+5,5.9,3,0,Nantes,47500.0
+E0476,F,54,Commercial,Ventes,Bac+3,25.4,4,0,Lyon,57100.0
+E0477,H,33,Développeur,IT,Bac+5,7.9,2,0,Lyon,55500.0
+E0478,H,26,Développeur,IT,Bac+5,0.9,4,0,Paris,54200.0
+E0479,H,30,Développeur,IT,Doctorat,4.8,3,0,Lille,54400.0
+E0480,F,44,Développeur,IT,Bac+5,5.5,3,0,Toulouse,51100.0
+E0481,H,36,Développeur,IT,Bac+3,12.0,3,0,Toulouse,56800.0
+E0482,F,27,Comptable,Finance,Bac+5,8.6,3,0,Paris,48600.0
+E0483,H,29,Développeur,IT,Bac+5,8.3,3,0,Paris,62400.0
+E0484,F,46,Commercial,Ventes,Bac+5,15.6,2,0,Paris,57100.0
+E0485,F,52,Assistant RH,RH,Bac+5,19.2,3,0,Paris,46800.0
+E0486,H,35,Développeur,IT,Bac+5,10.8,4,0,Paris,67500.0
+E0487,H,37,Développeur,IT,Bac+5,5.1,3,0,Nantes,54500.0
+E0488,H,35,Commercial,Ventes,Bac+5,5.2,2,0,Paris,52000.0
+E0489,H,41,Développeur,IT,Bac+2,14.4,3,0,Toulouse,58700.0
+E0490,F,31,Développeur,IT,Bac+3,5.2,3,0,Paris,54400.0
+E0491,F,34,Data Analyst,IT,Bac+5,6.4,4,0,Paris,64200.0
+E0492,H,35,Data Analyst,IT,Bac,4.7,4,0,Toulouse,54400.0
+E0493,F,31,Data Analyst,IT,Bac+5,2.8,3,0,Lille,55100.0
+E0494,F,48,Commercial,Ventes,Bac+5,24.2,4,0,Lyon,58900.0
+E0495,H,33,Chef de projet,IT,Bac+2,6.5,2,6,Nantes,57900.0
+E0496,H,52,Développeur,IT,Bac+5,17.1,5,0,Paris,77000.0
+E0497,H,33,Développeur,IT,Bac+5,5.2,3,0,Paris,59000.0
+E0498,H,35,Développeur,IT,Bac+5,4.1,3,0,Lyon,53700.0
+E0499,H,39,Commercial,Ventes,Bac+3,10.2,3,0,Lyon,52900.0
+E0500,H,41,Développeur,IT,Bac+5,13.2,2,0,Nantes,59900.0
+E0501,H,41,Data Analyst,IT,Bac+3,13.8,4,0,Paris,70000.0
+E0502,H,36,Responsable,Management,Bac+5,5.9,3,7,Nantes,79200.0
+E0503,H,41,Responsable,Management,Bac,10.9,3,3,Lille,73200.0
+E0504,H,33,Développeur,IT,Bac+5,4.5,2,0,Paris,56600.0
+E0505,F,31,Développeur,IT,Bac+5,7.1,5,0,Paris,54600.0
+E0506,H,34,Chef de projet,IT,Bac+5,5.5,4,11,Lyon,72800.0
+E0507,H,32,Commercial,Ventes,Bac+3,4.9,4,0,Lille,47400.0
+E0508,F,33,Chef de projet,IT,Bac+5,7.3,4,19,Nantes,72500.0
+E0509,F,40,Développeur,IT,Bac+5,2.7,4,0,Lille,50800.0
+E0510,H,33,Comptable,Finance,Bac+2,12.5,3,0,Lyon,41500.0
+E0511,F,36,Assistant RH,RH,Doctorat,4.9,2,0,Paris,38000.0
+E0512,F,36,Chef de projet,IT,Bac+5,12.1,3,14,Lyon,77200.0
+E0513,F,31,Assistant RH,RH,Doctorat,3.3,3,0,Paris,39600.0
+E0514,H,42,Commercial,Ventes,Doctorat,4.9,4,0,Lille,50600.0
+E0515,H,26,Commercial,Ventes,Bac+5,2.7,1,0,Paris,48400.0
+E0516,F,27,Comptable,Finance,Bac+5,2.6,2,0,Paris,43400.0
+E0517,F,31,Commercial,Ventes,Bac+5,3.6,4,0,Lyon,46900.0
+E0518,F,27,Data Analyst,IT,Bac+2,3.3,2,0,Lyon,48900.0
+E0519,F,33,Assistant RH,RH,Bac+3,2.8,2,0,Nantes,29500.0
+E0520,F,32,Chef de projet,IT,Bac+5,6.8,2,19,Lyon,70800.0
+E0521,H,40,Chef de projet,IT,Bac+3,10.0,4,13,Toulouse,73000.0
+E0522,F,32,Commercial,Ventes,Bac+5,10.4,2,0,Lille,49800.0
+E0523,F,21,Comptable,Finance,Bac+2,1.4,2,0,Toulouse,33200.0
+E0524,F,32,Développeur,IT,Bac+3,5.5,3,0,Nantes,48600.0
+E0525,F,26,Comptable,Finance,Bac+3,5.1,4,0,Nantes,34500.0
+E0526,F,49,Commercial,Ventes,Bac+3,15.8,3,0,Nantes,53000.0
+E0527,H,26,Responsable,Management,Bac+2,5.6,1,9,Lyon,72800.0
+E0528,H,29,Directeur,Direction,Bac+2,6.4,4,31,Paris,125700.0
+E0529,H,31,Chef de projet,IT,Bac+5,2.0,4,6,Nantes,69300.0
+E0530,H,28,Commercial,Ventes,Bac+3,3.5,2,0,Paris,46200.0
+E0531,F,23,Data Analyst,IT,Bac,1.9,3,0,Paris,49500.0
+E0532,H,42,Data Analyst,IT,Bac,7.1,2,0,Toulouse,47800.0
+E0533,F,39,Commercial,Ventes,Bac+3,16.1,4,0,Paris,59400.0
+E0534,H,30,Développeur,IT,Bac+2,3.6,3,0,Lyon,47800.0
+E0535,F,32,Assistant RH,RH,Bac+5,5.7,5,0,Nantes,40500.0
+E0536,H,33,Comptable,Finance,Bac+5,3.3,4,0,Paris,47700.0
+E0537,H,33,Développeur,IT,Bac+2,4.2,3,0,Toulouse,40900.0
+E0538,F,31,Comptable,Finance,Bac+5,7.2,1,0,Paris,42300.0
+E0539,F,47,Comptable,Finance,Bac+2,21.1,4,0,Toulouse,48200.0
+E0540,H,42,Chef de projet,IT,Bac+3,15.6,4,4,Lille,79400.0
+E0541,H,49,Directeur,Direction,Bac+5,18.6,4,47,Paris,174500.0
+E0542,H,35,Développeur,IT,Bac+3,12.2,2,0,Paris,60000.0
+E0543,H,41,Chef de projet,IT,Bac+5,5.6,4,16,Paris,78000.0
+E0544,H,29,Directeur,Direction,Bac+2,5.0,4,64,Lyon,128000.0
+E0545,H,31,Comptable,Finance,Bac+3,3.7,5,0,Paris,45500.0
+E0546,F,23,Développeur,IT,Bac+3,0.5,3,0,Toulouse,44500.0
+E0547,H,27,Commercial,Ventes,Bac+3,5.5,3,0,Paris,50800.0
+E0548,F,40,Assistant RH,RH,Doctorat,16.3,3,0,Lille,44800.0
+E0549,F,39,Chef de projet,IT,Bac+2,16.2,4,8,Paris,69800.0
+E0550,H,51,Développeur,IT,Bac+5,26.0,4,0,Toulouse,70100.0
+E0551,H,31,Développeur,IT,Bac+5,7.6,3,0,Paris,61800.0
+E0552,F,32,Comptable,Finance,Bac+5,2.4,3,0,Lyon,39100.0
+E0553,F,33,Comptable,Finance,Bac+3,9.6,1,0,Nantes,40700.0
+E0554,H,45,Responsable,Management,Bac+3,21.2,3,18,Paris,106500.0
+E0555,F,43,Assistant RH,RH,Bac+2,17.6,4,0,Lille,41800.0
+E0556,H,36,Commercial,Ventes,Bac+5,4.6,2,0,Paris,51300.0
+E0557,H,30,Commercial,Ventes,Bac+3,2.6,3,0,Lyon,44700.0
+E0558,H,29,Développeur,IT,Bac+5,2.5,5,0,Lyon,57000.0
+E0559,F,25,Développeur,IT,Bac+5,3.8,3,0,Nantes,49900.0
+E0560,F,27,Développeur,IT,Bac+3,4.3,3,0,Paris,49900.0
+E0561,H,27,Assistant RH,RH,Bac+5,5.3,3,0,Paris,42000.0
+E0562,F,43,Commercial,Ventes,Bac+3,10.5,3,0,Paris,50400.0
+E0563,H,34,Chef de projet,IT,Bac+5,5.2,2,20,Paris,75100.0
+E0564,F,30,Développeur,IT,Bac+2,6.9,4,0,Paris,53300.0
+E0565,H,26,Data Analyst,IT,Doctorat,1.7,3,0,Toulouse,55400.0
+E0566,H,27,Data Analyst,IT,Bac+5,3.7,3,0,Lyon,57300.0
+E0567,H,27,Chef de projet,IT,Bac+5,3.5,3,18,Nantes,67800.0
+E0568,H,30,Assistant RH,RH,Bac+3,1.5,1,0,Lyon,32000.0
+E0569,F,31,Commercial,Ventes,Bac+5,5.1,2,0,Paris,48500.0
+E0570,H,37,Développeur,IT,Bac+3,1.8,2,0,Lyon,46100.0
+E0571,H,37,Commercial,Ventes,Bac+5,4.8,2,0,Paris,52400.0
+E0572,H,40,Chef de projet,IT,Bac+2,7.3,4,16,Paris,74900.0
+E0573,H,46,Développeur,IT,Bac+3,16.5,2,0,Lyon,62400.0
+E0574,H,29,Chef de projet,IT,Bac+3,3.4,4,24,Lyon,72900.0
+E0575,F,36,Chef de projet,IT,Bac+3,7.1,2,14,Toulouse,65500.0
+E0576,H,30,Développeur,IT,Bac+3,4.1,2,0,Paris,52700.0
+E0577,H,35,Responsable,Management,Bac+5,1.7,2,22,Lyon,76300.0
+E0578,F,45,Développeur,IT,Bac+2,16.6,3,0,Paris,59400.0
+E0579,F,36,Chef de projet,IT,Bac+5,7.5,3,22,Paris,77200.0
+E0580,F,37,Commercial,Ventes,Bac,9.3,4,0,Lille,45300.0
+E0581,H,52,Développeur,IT,Bac+5,18.3,2,0,Paris,71000.0
+E0582,F,26,Développeur,IT,Bac+5,4.8,3,0,Nantes,46500.0
+E0583,F,37,Assistant RH,RH,Bac+3,2.3,4,0,Lyon,34700.0
+E0584,F,30,Commercial,Ventes,Bac+5,3.3,3,0,Paris,49500.0
+E0585,H,23,Responsable,Management,Bac+5,2.1,2,11,Toulouse,72500.0
+E0586,H,38,Développeur,IT,Bac+5,13.7,2,0,Lyon,63500.0
+E0587,F,42,Comptable,Finance,Bac+3,21.7,2,0,Lille,47700.0
+E0588,F,37,Commercial,Ventes,Bac+3,7.2,4,0,Lyon,47500.0
+E0589,H,34,Comptable,Finance,Bac+5,10.7,3,0,Toulouse,50500.0
+E0590,F,40,Assistant RH,RH,Bac+2,12.6,3,0,Paris,39300.0
+E0591,H,51,Responsable,Management,Bac+5,19.1,4,24,Lyon,108700.0
+E0592,H,46,Développeur,IT,Bac+3,21.2,3,0,Lille,62400.0
+E0593,H,27,Commercial,Ventes,Bac+5,1.1,3,0,Paris,47700.0
+E0594,F,26,Développeur,IT,Bac,4.2,2,0,Lyon,36200.0
+E0595,H,32,Assistant RH,RH,Bac,6.7,3,0,Toulouse,34900.0
+E0596,F,41,Commercial,Ventes,Doctorat,3.8,2,0,Nantes,47100.0
+E0597,F,36,Data Analyst,IT,Bac+5,5.4,3,0,Nantes,55900.0
+E0598,H,35,Développeur,IT,Bac+5,8.9,3,0,Nantes,55400.0
+E0599,F,33,Directeur,Direction,Doctorat,8.7,4,35,Lille,110900.0
+E0600,F,39,Développeur,IT,Bac+3,12.3,4,0,Toulouse,57400.0
+E0601,H,34,Développeur,IT,Bac+2,6.8,4,0,Nantes,52300.0
+E0602,F,26,Chef de projet,IT,Bac+2,0.6,2,12,Paris,56600.0
+E0603,H,34,Responsable,Management,Bac+3,5.1,5,3,Paris,89100.0
+E0604,H,31,Data Analyst,IT,Bac+2,8.3,2,0,Nantes,53800.0
+E0605,H,36,Responsable,Management,Doctorat,12.9,4,3,Lille,96500.0
+E0606,H,40,Chef de projet,IT,Bac,11.7,4,21,Lyon,75800.0
+E0607,H,28,Chef de projet,IT,Bac+2,6.1,3,4,Paris,67400.0
+E0608,H,34,Comptable,Finance,Bac+2,3.9,3,0,Paris,38000.0
+E0609,F,33,Data Analyst,IT,Bac+2,6.3,4,0,Lyon,52400.0
+E0610,F,21,Développeur,IT,Bac+2,1.3,4,0,Lille,42900.0
+E0611,H,32,Développeur,IT,Bac+5,4.3,2,0,Paris,53900.0
+E0612,H,35,Data Analyst,IT,Bac+3,14.4,4,0,Nantes,69200.0
+E0613,F,36,Responsable,Management,Bac+5,6.3,2,3,Lille,62400.0
+E0614,H,35,Directeur,Direction,Bac+5,8.5,3,36,Toulouse,128400.0
+E0615,F,36,Commercial,Ventes,Bac+5,2.0,3,0,Paris,46100.0
+E0616,H,44,Data Analyst,IT,Bac+5,12.8,4,0,Toulouse,71000.0
+E0617,F,29,Data Analyst,IT,Bac+3,5.9,3,0,Nantes,52900.0
+E0618,F,27,Commercial,Ventes,Bac+2,8.3,3,0,Lille,45600.0
+E0619,F,34,Comptable,Finance,Bac+3,9.6,3,0,Paris,46500.0
+E0620,F,35,Assistant RH,RH,Doctorat,12.5,3,0,Lyon,44600.0
+E0621,F,42,Chef de projet,IT,Bac+5,7.5,3,22,Nantes,72100.0
+E0622,F,33,Développeur,IT,Bac+2,6.0,3,0,Paris,50300.0
+E0623,H,33,Directeur,Direction,Bac+3,2.4,4,67,Lyon,124700.0
+E0624,F,28,Développeur,IT,Bac+5,1.8,3,0,Nantes,46400.0
+E0625,H,34,Directeur,Direction,Bac+5,7.4,2,34,Nantes,124600.0
+E0626,H,35,Développeur,IT,Bac+5,8.4,3,0,Paris,54400.0
+E0627,F,41,Chef de projet,IT,Bac+5,9.3,2,12,Lyon,71800.0
+E0628,F,32,Assistant RH,RH,Bac+5,3.4,3,0,Paris,38200.0
+E0629,F,27,Développeur,IT,Bac+5,4.3,3,0,Toulouse,50200.0
+E0630,F,41,Chef de projet,IT,Bac+2,7.3,3,7,Toulouse,63800.0
+E0631,F,31,Responsable,Management,Bac+2,4.7,3,4,Paris,74000.0
+E0632,H,53,Chef de projet,IT,Doctorat,27.4,3,13,Paris,100600.0
+E0633,H,21,Assistant RH,RH,Bac+5,4.2,4,0,Paris,43100.0
+E0634,H,38,Commercial,Ventes,Bac+3,8.8,3,0,Lyon,50500.0
+E0635,F,39,Assistant RH,RH,Bac+5,11.4,3,0,Toulouse,37500.0
+E0636,F,39,Comptable,Finance,Bac,11.9,2,0,Lyon,41100.0
+E0637,F,30,Data Analyst,IT,Bac+5,4.6,2,0,Paris,54700.0
+E0638,H,34,Data Analyst,IT,Bac+2,9.6,3,0,Paris,59700.0
+E0639,H,34,Chef de projet,IT,Bac+5,8.8,4,14,Paris,80500.0
+E0640,H,39,Chef de projet,IT,Bac+3,9.9,2,20,Lille,70100.0
+E0641,H,37,Data Analyst,IT,Bac+2,7.2,2,0,Nantes,52100.0
+E0642,H,38,Chef de projet,IT,Bac,11.5,3,12,Nantes,65200.0
+E0643,F,39,Assistant RH,RH,Bac+5,7.8,3,0,Paris,41100.0
+E0644,H,29,Commercial,Ventes,Bac+2,2.2,5,0,Toulouse,44800.0
+E0645,H,33,Développeur,IT,Bac,7.6,3,0,Paris,54200.0
+E0646,H,36,Chef de projet,IT,Bac+5,8.3,2,21,Lille,66100.0
+E0647,F,33,Assistant RH,RH,Bac+3,11.0,3,0,Toulouse,38500.0
+E0648,H,35,Développeur,IT,Bac+3,7.4,2,0,Lyon,51500.0
+E0649,H,40,Data Analyst,IT,Bac+2,19.4,2,0,Toulouse,64300.0
+E0650,F,29,Assistant RH,RH,Bac+5,6.2,3,0,Paris,39800.0
+E0651,H,23,Commercial,Ventes,Bac+2,4.5,3,0,Nantes,43700.0
+E0652,F,42,Responsable,Management,Bac+2,15.7,2,14,Paris,85800.0
+E0653,H,39,Data Analyst,IT,Bac+3,6.0,3,0,Lyon,55800.0
+E0654,H,33,Commercial,Ventes,Bac+2,6.9,3,0,Paris,49500.0
+E0655,H,38,Chef de projet,IT,Bac+3,8.3,2,5,Paris,72000.0
+E0656,H,44,Commercial,Ventes,Bac,7.8,4,0,Paris,50400.0
+E0657,F,39,Chef de projet,IT,Bac+2,9.9,3,23,Paris,76900.0
+E0658,F,35,Commercial,Ventes,Bac+3,10.6,5,0,Nantes,53000.0
+E0659,H,29,Développeur,IT,Bac+5,4.2,5,0,Lyon,58300.0
+E0660,F,30,Commercial,Ventes,Bac,2.6,3,0,Paris,40900.0
+E0661,H,27,Commercial,Ventes,Bac+2,2.9,3,0,Toulouse,41400.0
+E0662,F,39,Responsable,Management,Bac+5,14.6,4,5,Toulouse,75800.0
+E0663,F,37,Comptable,Finance,Bac+5,5.7,3,0,Paris,44900.0
+E0664,F,43,Assistant RH,RH,Bac+5,11.4,2,0,Lyon,37300.0
+E0665,H,31,Commercial,Ventes,Bac+2,10.7,3,0,Nantes,48200.0
+E0666,F,31,Data Analyst,IT,Bac+3,6.9,3,0,Lille,54500.0
+E0667,H,29,Chef de projet,IT,Bac+2,3.4,4,21,Lyon,67800.0
+E0668,H,40,Directeur,Direction,Bac+2,10.9,4,49,Lille,128200.0
+E0669,F,38,Commercial,Ventes,Bac+3,6.7,4,0,Paris,51200.0
+E0670,H,40,Développeur,IT,Bac+5,2.5,4,0,Paris,54300.0
+E0671,F,30,Comptable,Finance,Bac+3,4.7,3,0,Lille,38700.0
+E0672,H,27,Développeur,IT,Bac+5,1.7,3,0,Nantes,51800.0
+E0673,H,34,Directeur,Direction,Bac+2,4.9,5,32,Lille,115500.0
+E0674,F,31,Data Analyst,IT,Bac+3,7.1,5,0,Paris,59300.0
+E0675,H,33,Développeur,IT,Bac+5,6.2,4,0,Paris,60800.0
+E0676,H,31,Commercial,Ventes,Bac+5,5.7,4,0,Paris,57100.0
+E0677,H,24,Responsable,Management,Bac+3,7.1,3,8,Paris,84600.0
+E0678,H,37,Développeur,IT,Bac+5,9.5,3,0,Paris,61000.0
+E0679,F,38,Comptable,Finance,Bac+2,12.0,4,0,Lyon,48300.0
+E0680,H,45,Commercial,Ventes,Bac,13.0,1,0,Lyon,44900.0
+E0681,F,31,Assistant RH,RH,Bac+5,3.8,3,0,Nantes,34900.0
+E0682,H,36,Comptable,Finance,Bac+2,13.9,3,0,Lyon,46700.0
+E0683,H,33,Assistant RH,RH,Bac+3,6.7,3,0,Paris,38900.0
+E0684,F,24,Développeur,IT,Bac+3,5.2,3,0,Nantes,47900.0
+E0685,H,25,Développeur,IT,Bac+2,3.0,2,0,Paris,49700.0
+E0686,F,30,Commercial,Ventes,Bac,0.5,2,0,Toulouse,36400.0
+E0687,H,35,Développeur,IT,Bac+3,9.0,3,0,Paris,58600.0
+E0688,H,39,Responsable,Management,Doctorat,8.8,3,6,Lyon,87600.0
+E0689,F,24,Chef de projet,IT,Bac+5,4.4,1,20,Toulouse,63600.0
+E0690,H,31,Développeur,IT,Bac+3,4.5,4,0,Nantes,52700.0
+E0691,F,31,Commercial,Ventes,Bac,6.1,3,0,Nantes,41200.0
+E0692,H,36,Responsable,Management,Bac+5,5.2,3,15,Nantes,82000.0
+E0693,H,33,Commercial,Ventes,Bac,3.7,3,0,Paris,44300.0
+E0694,F,32,Commercial,Ventes,Bac+3,2.7,3,0,Nantes,42000.0
+E0695,H,47,Responsable,Management,Bac+5,14.0,4,10,Toulouse,96200.0
+E0696,H,30,Développeur,IT,Bac+3,4.7,2,0,Toulouse,50000.0
+E0697,F,41,Data Analyst,IT,Bac+2,8.8,3,0,Lyon,57400.0
+E0698,H,33,Développeur,IT,Bac,9.9,4,0,Paris,57200.0
+E0699,F,32,Data Analyst,IT,Bac,9.1,2,0,Lille,48100.0
+E0700,H,40,Commercial,Ventes,Bac+3,10.3,4,0,Lyon,54200.0
+E0701,F,30,Commercial,Ventes,Bac+5,9.0,5,0,Paris,56900.0
+E0702,H,33,Commercial,Ventes,Bac+2,4.1,3,0,Paris,48000.0
+E0703,H,33,Comptable,Finance,Bac+5,5.4,5,0,Paris,51800.0
+E0704,F,45,Chef de projet,IT,Bac+5,13.7,3,21,Lyon,79600.0
+E0705,F,31,Commercial,Ventes,Bac,4.6,3,0,Paris,43900.0
+E0706,H,34,Développeur,IT,Bac+2,6.7,2,0,Paris,52600.0
+E0707,H,39,Chef de projet,IT,Bac+3,9.5,1,20,Paris,72000.0
+E0708,H,41,Chef de projet,IT,Bac+5,17.0,3,3,Toulouse,83200.0
+E0709,F,37,Développeur,IT,Bac+3,13.0,3,0,Paris,60700.0
+E0710,F,32,Développeur,IT,Bac+5,3.3,3,0,Paris,54500.0
+E0711,H,35,Directeur,Direction,Bac+5,8.6,3,39,Lyon,136500.0
+E0712,H,33,Data Analyst,IT,Bac+5,7.9,3,0,Paris,65400.0
+E0713,H,32,Chef de projet,IT,Doctorat,5.4,2,22,Toulouse,72300.0
+E0714,H,40,Responsable,Management,Bac+5,6.9,3,17,Toulouse,84600.0
+E0715,H,29,Chef de projet,IT,Bac+5,4.1,2,21,Lyon,70300.0
+E0716,F,31,Comptable,Finance,Bac+5,6.0,4,0,Lyon,45500.0
+E0717,F,25,Développeur,IT,Bac+5,4.7,3,0,Lyon,52100.0
+E0718,H,34,Assistant RH,RH,Bac+5,7.2,4,0,Paris,44100.0
+E0719,H,35,Data Analyst,IT,Doctorat,5.3,2,0,Paris,64500.0
+E0720,F,48,Responsable,Management,Bac+3,17.8,3,22,Paris,97700.0
+E0721,H,35,Développeur,IT,Bac+5,7.4,5,0,Paris,69100.0
+E0722,H,37,Développeur,IT,Bac+3,6.5,2,0,Nantes,51400.0
+E0723,F,36,Assistant RH,RH,Bac+5,5.8,3,0,Paris,38300.0
+E0724,F,37,Responsable,Management,Bac+3,5.3,2,2,Paris,73300.0
+E0725,H,33,Assistant RH,RH,Bac+5,2.5,2,0,Lyon,36100.0
+E0726,F,45,Assistant RH,RH,Bac+5,11.4,3,0,Lyon,41000.0
+E0727,H,42,Commercial,Ventes,Doctorat,15.7,2,0,Paris,62100.0
+E0728,F,26,Assistant RH,RH,Bac+2,4.6,3,0,Paris,34100.0
+E0729,F,43,Développeur,IT,Bac+5,13.7,4,0,Paris,67800.0
+E0730,H,57,Développeur,IT,Bac+5,27.2,3,0,Paris,69800.0
+E0731,F,54,Commercial,Ventes,Doctorat,21.2,2,0,Lille,55600.0
+E0732,F,47,Assistant RH,RH,Bac+5,15.2,4,0,Toulouse,45300.0
+E0733,F,38,Comptable,Finance,Bac+5,2.8,3,0,Lyon,36000.0
+E0734,H,32,Commercial,Ventes,Bac+5,2.7,4,0,Lyon,48400.0
+E0735,F,38,Assistant RH,RH,Bac+2,10.3,3,0,Lille,35000.0
+E0736,H,28,Data Analyst,IT,Doctorat,6.8,3,0,Nantes,59900.0
+E0737,F,29,Comptable,Finance,Bac+2,1.1,4,0,Paris,39600.0
+E0738,F,30,Commercial,Ventes,Bac+5,5.0,2,0,Paris,47400.0
+E0739,F,38,Commercial,Ventes,Bac+5,10.0,4,0,Lyon,53100.0
+E0740,H,33,Développeur,IT,Bac+3,6.0,3,0,Nantes,52200.0
+E0741,F,36,Assistant RH,RH,Bac+2,6.8,4,0,Paris,37600.0
+E0742,F,29,Comptable,Finance,Bac+2,2.7,2,0,Paris,37100.0
+E0743,F,36,Chef de projet,IT,Bac+5,5.0,3,22,Paris,69800.0
+E0744,F,26,Assistant RH,RH,Bac+3,10.3,2,0,Paris,39500.0
+E0745,H,33,Développeur,IT,Bac,4.8,5,0,Lyon,50500.0
+E0746,F,46,Développeur,IT,Bac+5,14.4,2,0,Nantes,57700.0
+E0747,F,41,Commercial,Ventes,Bac+2,6.9,2,0,Lyon,42000.0
+E0748,H,39,Développeur,IT,Bac+5,9.0,4,0,Paris,57400.0
+E0749,F,44,Chef de projet,IT,Bac+3,10.1,3,11,Paris,74200.0
+E0750,F,38,Chef de projet,IT,Bac+2,9.9,3,22,Lille,67200.0
+E0751,H,30,Commercial,Ventes,Bac,3.2,3,0,Lyon,43200.0
+E0752,H,33,Commercial,Ventes,Bac+3,3.6,3,0,Paris,49300.0
+E0753,F,28,Commercial,Ventes,Bac+3,1.0,2,0,Paris,42000.0
+E0754,H,29,Développeur,IT,Bac+5,5.4,3,0,Lille,54000.0
+E0755,H,28,Data Analyst,IT,Bac+3,3.4,3,0,Lille,51500.0
+E0756,H,27,Commercial,Ventes,Bac+3,4.7,3,0,Toulouse,46000.0
+E0757,H,35,Commercial,Ventes,Bac+2,5.8,3,0,Nantes,46600.0
+E0758,H,35,Responsable,Management,Bac+2,7.6,2,13,Lyon,74300.0
+E0759,F,32,Assistant RH,RH,Bac+5,6.1,4,0,Lyon,38800.0
+E0760,H,31,Développeur,IT,Bac+2,6.0,2,0,Paris,53500.0
+E0761,H,38,Data Analyst,IT,Doctorat,8.5,3,0,Nantes,64700.0
+E0762,H,37,Comptable,Finance,Bac+3,6.6,3,0,Nantes,42500.0
+E0763,F,34,Assistant RH,RH,Bac,11.9,3,0,Paris,33100.0
+E0764,F,28,Comptable,Finance,Bac+2,6.6,4,0,Toulouse,38200.0
+E0765,H,48,Responsable,Management,Bac,17.1,3,23,Lyon,95100.0
+E0766,F,25,Assistant RH,RH,Bac+5,3.1,4,0,Paris,39000.0
+E0767,H,34,Comptable,Finance,Bac+3,5.3,4,0,Paris,46000.0
+E0768,F,38,Assistant RH,RH,Bac+3,4.1,4,0,Toulouse,34900.0
+E0769,H,41,Comptable,Finance,Bac+5,7.8,4,0,Toulouse,46900.0
+E0770,H,33,Développeur,IT,Bac+5,3.1,2,0,Lyon,50500.0
+E0771,H,32,Commercial,Ventes,Doctorat,2.0,5,0,Toulouse,50200.0
+E0772,H,40,Développeur,IT,Doctorat,3.6,4,0,Toulouse,54500.0
+E0773,H,21,Développeur,IT,Bac+5,2.2,3,0,Lille,47100.0
+E0774,H,31,Chef de projet,IT,Bac+5,5.8,2,19,Toulouse,58300.0
+E0775,H,38,Assistant RH,RH,Bac+5,7.5,2,0,Lyon,40100.0
+E0776,F,27,Chef de projet,IT,Bac+3,1.8,3,13,Lille,56400.0
+E0777,H,37,Développeur,IT,Bac+5,5.1,3,0,Nantes,54600.0
+E0778,F,40,Comptable,Finance,Bac,12.9,4,0,Lille,43300.0
+E0779,H,43,Chef de projet,IT,Bac+5,15.4,3,13,Paris,89600.0
+E0780,H,37,Chef de projet,IT,Doctorat,10.8,3,4,Lille,75900.0
+E0781,H,26,Commercial,Ventes,Bac,0.7,2,0,Toulouse,37400.0
+E0782,F,32,Responsable,Management,Bac+5,7.1,2,6,Paris,80100.0
+E0783,H,42,Développeur,IT,Doctorat,13.9,2,0,Toulouse,65700.0
+E0784,H,29,Développeur,IT,Bac+2,4.7,4,0,Lyon,53700.0
+E0785,F,33,Directeur,Direction,Bac+3,2.5,3,55,Paris,122500.0
+E0786,F,43,Commercial,Ventes,Bac+5,13.2,5,0,Paris,59000.0
+E0787,H,46,Chef de projet,IT,Doctorat,14.5,4,13,Lille,85800.0
+E0788,H,29,Commercial,Ventes,Bac+2,6.6,4,0,Nantes,47400.0
+E0789,F,23,Chef de projet,IT,Bac+3,2.5,3,17,Paris,66100.0
+E0790,H,29,Développeur,IT,Bac+5,1.6,4,0,Nantes,49600.0
+E0791,H,47,Comptable,Finance,Bac+2,8.3,5,0,Paris,47100.0
+E0792,H,36,Développeur,IT,Bac+3,4.2,4,0,Lyon,54500.0
+E0793,H,31,Commercial,Ventes,Bac,6.3,2,0,Toulouse,41200.0
+E0794,F,34,Assistant RH,RH,Bac+2,5.8,4,0,Nantes,33100.0
+E0795,F,33,Assistant RH,RH,Bac+5,3.4,2,0,Lille,32000.0
+E0796,F,23,Commercial,Ventes,Bac+5,1.5,2,0,Nantes,42100.0
+E0797,F,37,Assistant RH,RH,Bac+5,4.8,4,0,Toulouse,36300.0
+E0798,F,34,Comptable,Finance,Bac+5,7.3,4,0,Paris,49100.0
+E0799,F,34,Data Analyst,IT,Bac+3,7.5,2,0,Paris,55000.0
+E0800,H,31,Data Analyst,IT,Bac+2,4.0,2,0,Paris,51000.0
+E0801,H,46,Data Analyst,IT,Bac,14.3,4,0,Nantes,62900.0
+E0802,H,27,Commercial,Ventes,Bac+2,2.8,2,0,Nantes,41400.0
+E0803,H,32,Responsable,Management,Bac+3,12.3,1,22,Lille,81300.0
+E0804,H,35,Développeur,IT,Bac+2,7.1,4,0,Paris,56100.0
+E0805,F,24,Comptable,Finance,Bac,4.8,4,0,Paris,41600.0
+E0806,F,35,Comptable,Finance,Bac+2,9.0,3,0,Nantes,41600.0
+E0807,H,37,Data Analyst,IT,Bac+5,5.6,3,0,Toulouse,59700.0
+E0808,F,31,Comptable,Finance,Bac+5,2.0,3,0,Paris,41800.0
+E0809,H,34,Développeur,IT,Doctorat,2.6,3,0,Paris,57800.0
+E0810,H,35,Directeur,Direction,Bac+5,5.3,4,34,Paris,137200.0
+E0811,H,41,Assistant RH,RH,Bac+5,4.4,4,0,Lyon,38900.0
+E0812,F,37,Assistant RH,RH,Bac+2,12.1,3,0,Paris,40200.0
+E0813,H,33,Directeur,Direction,Bac+5,4.2,3,59,Paris,133900.0
+E0814,F,29,Développeur,IT,Bac,4.0,3,0,Nantes,43600.0
+E0815,F,34,Comptable,Finance,Bac+3,3.6,2,0,Paris,38700.0
+E0816,F,30,Responsable,Management,Bac+3,3.4,3,8,Lyon,71400.0
+E0817,F,37,Chef de projet,IT,Bac+3,3.5,1,4,Paris,59200.0
+E0818,H,27,Développeur,IT,Bac+2,2.3,4,0,Toulouse,47600.0
+E0819,H,40,Développeur,IT,Bac+5,7.3,3,0,Lyon,57900.0
+E0820,H,35,Commercial,Ventes,Bac+5,5.9,4,0,Paris,55100.0
+E0821,F,33,Assistant RH,RH,Bac+5,5.7,3,0,Paris,38700.0
+E0822,F,31,Développeur,IT,Bac+5,1.7,4,0,Nantes,50000.0
+E0823,H,37,Commercial,Ventes,Bac+3,8.5,5,0,Toulouse,53600.0
+E0824,F,38,Data Analyst,IT,Bac,9.1,3,0,Paris,54300.0
+E0825,F,43,Chef de projet,IT,Bac+5,16.6,2,5,Paris,80400.0
+E0826,H,33,Assistant RH,RH,Bac+3,8.8,4,0,Paris,42800.0
+E0827,F,44,Développeur,IT,Bac+2,18.7,1,0,Nantes,53500.0
+E0828,F,24,Commercial,Ventes,Bac+3,3.9,3,0,Toulouse,44500.0
+E0829,H,47,Chef de projet,IT,Doctorat,17.1,2,13,Lyon,88500.0
+E0830,H,31,Commercial,Ventes,Bac+5,8.9,4,0,Paris,58800.0
+E0831,H,34,Développeur,IT,Bac+3,8.2,1,0,Lille,48100.0
+E0832,H,35,Développeur,IT,Bac+5,5.6,3,0,Lille,54300.0
+E0833,H,35,Commercial,Ventes,Bac+3,4.8,3,0,Paris,48900.0
+E0834,F,24,Data Analyst,IT,Bac+3,4.1,4,0,Paris,55700.0
+E0835,H,44,Data Analyst,IT,Bac+2,17.5,3,0,Lyon,67700.0
+E0836,H,34,Développeur,IT,Bac+3,5.5,4,0,Lille,52500.0
+E0837,H,36,Chef de projet,IT,Bac+5,9.1,4,6,Nantes,70700.0
+E0838,H,43,Directeur,Direction,Bac,10.4,3,33,Nantes,116200.0
+E0839,H,34,Développeur,IT,Bac+5,10.3,3,0,Lille,58400.0
+E0840,F,26,Développeur,IT,Bac+2,7.3,4,0,Paris,53800.0
+E0841,F,47,Assistant RH,RH,Bac+5,16.9,4,0,Paris,49900.0
+E0842,F,33,Chef de projet,IT,Bac+5,8.6,3,10,Paris,71700.0
+E0843,H,24,Développeur,IT,Bac+5,4.0,3,0,Toulouse,48900.0
+E0844,H,31,Développeur,IT,Bac+5,5.0,1,0,Nantes,43200.0
+E0845,F,34,Assistant RH,RH,Doctorat,1.7,2,0,Paris,36900.0
+E0846,F,30,Responsable,Management,Bac+3,7.9,2,10,Paris,72500.0
+E0847,H,46,Commercial,Ventes,Bac+5,9.6,1,0,Lille,47500.0
+E0848,H,34,Data Analyst,IT,Bac+5,10.1,2,0,Lille,56900.0
+E0849,F,36,Comptable,Finance,Bac+2,8.9,4,0,Nantes,42100.0
+E0850,F,28,Responsable,Management,Bac+2,5.7,4,13,Paris,82600.0
+E0851,F,34,Comptable,Finance,Bac+3,6.4,4,0,Toulouse,41800.0
+E0852,H,33,Comptable,Finance,Bac+2,6.4,3,0,Lille,40100.0
+E0853,F,33,Chef de projet,IT,Bac+3,12.1,3,23,Nantes,75200.0
+E0854,H,40,Responsable,Management,Bac+3,1.2,2,11,Nantes,68000.0
+E0855,F,30,Comptable,Finance,Bac+5,4.6,4,0,Toulouse,42600.0
+E0856,H,28,Développeur,IT,Bac+2,2.9,3,0,Toulouse,47900.0
+E0857,H,52,Data Analyst,IT,Bac+5,21.3,3,0,Nantes,73000.0
+E0858,H,48,Chef de projet,IT,Bac+3,13.7,5,8,Lyon,82600.0
+E0859,H,36,Commercial,Ventes,Bac+5,4.7,4,0,Lyon,51100.0
+E0860,F,24,Développeur,IT,Bac,2.1,3,0,Lille,40400.0
+E0861,H,30,Data Analyst,IT,Bac+3,2.6,4,0,Nantes,54700.0
+E0862,F,31,Data Analyst,IT,Bac,12.0,2,0,Paris,55400.0
+E0863,H,32,Chef de projet,IT,Bac+5,1.7,1,13,Paris,67500.0
+E0864,H,27,Développeur,IT,Bac+3,6.5,1,0,Toulouse,47400.0
+E0865,F,35,Assistant RH,RH,Doctorat,10.8,2,0,Toulouse,41900.0
+E0866,H,29,Responsable,Management,Bac+3,2.4,4,9,Toulouse,74800.0
+E0867,F,35,Chef de projet,IT,Bac+5,6.5,3,22,Lyon,69900.0
+E0868,H,31,Chef de projet,IT,Bac+2,4.8,1,19,Lille,60500.0
+E0869,F,37,Assistant RH,RH,Bac+5,4.3,5,0,Lille,36600.0
+E0870,F,34,Comptable,Finance,Bac+3,3.8,3,0,Paris,41700.0
+E0871,H,41,Data Analyst,IT,Bac+3,11.4,3,0,Paris,65200.0
+E0872,F,38,Assistant RH,RH,Bac+2,15.5,3,0,Toulouse,39400.0
+E0873,H,39,Directeur,Direction,Bac+2,5.3,3,20,Paris,119300.0
+E0874,F,32,Commercial,Ventes,Bac+2,8.2,3,0,Nantes,45400.0
+E0875,F,41,Data Analyst,IT,Doctorat,6.6,3,0,Nantes,57100.0
+E0876,F,36,Responsable,Management,Bac+3,1.3,4,11,Nantes,67300.0
+E0877,H,34,Commercial,Ventes,Bac,5.2,3,0,Paris,46000.0
+E0878,H,32,Commercial,Ventes,Doctorat,1.1,3,0,Lille,46600.0
+E0879,F,21,Développeur,IT,Bac,4.5,1,0,Paris,43100.0
+E0880,H,33,Développeur,IT,Bac+3,6.3,4,0,Lille,54900.0
+E0881,H,42,Développeur,IT,Bac+5,10.2,3,0,Paris,65300.0
+E0882,F,38,Développeur,IT,Bac+5,7.7,3,0,Nantes,52900.0
+E0883,F,34,Responsable,Management,Bac+5,11.6,5,3,Lille,85900.0
+E0884,F,29,Développeur,IT,Bac+3,3.3,3,0,Paris,50100.0
+E0885,F,31,Comptable,Finance,Doctorat,14.3,2,0,Paris,53400.0
+E0886,H,44,Commercial,Ventes,Bac,15.6,3,0,Lille,51600.0
+E0887,H,21,Commercial,Ventes,Doctorat,1.0,3,0,Paris,52000.0
+E0888,F,33,Comptable,Finance,Bac+5,1.6,5,0,Paris,45000.0
+E0889,H,38,Comptable,Finance,Bac+5,6.2,3,0,Lyon,46700.0
+E0890,F,29,Data Analyst,IT,Bac+2,4.2,3,0,Toulouse,49800.0
+E0891,H,34,Commercial,Ventes,Bac+2,4.8,3,0,Nantes,44300.0
+E0892,H,34,Responsable,Management,Bac+5,7.7,3,15,Lyon,87700.0
+E0893,F,40,Commercial,Ventes,Bac+3,11.9,2,0,Toulouse,48800.0
+E0894,F,26,Assistant RH,RH,Bac+3,3.2,4,0,Lyon,35000.0
+E0895,H,43,Chef de projet,IT,Bac+5,13.1,1,18,Lyon,76100.0
+E0896,H,24,Chef de projet,IT,Bac+5,3.7,4,11,Lyon,69700.0
+E0897,F,43,Commercial,Ventes,Bac+3,23.1,4,0,Paris,54700.0
+E0898,F,41,Comptable,Finance,Bac+3,14.4,2,0,Paris,48000.0
+E0899,F,30,Comptable,Finance,Bac+2,4.0,4,0,Nantes,37100.0
+E0900,H,30,Développeur,IT,Bac+2,2.1,4,0,Paris,52300.0
+E0901,H,28,Développeur,IT,Bac+2,4.0,3,0,Nantes,48300.0
+E0902,H,38,Commercial,Ventes,Bac+5,3.6,3,0,Paris,49600.0
+E0903,F,37,Assistant RH,RH,Bac+5,9.4,2,0,Lyon,38200.0
+E0904,H,29,Développeur,IT,Bac+3,1.1,2,0,Paris,48600.0
+E0905,H,29,Responsable,Management,Bac+3,1.6,4,7,Nantes,72500.0
+E0906,F,40,Data Analyst,IT,Bac+5,9.2,2,0,Lille,54300.0
+E0907,H,33,Développeur,IT,Bac+5,3.4,3,0,Lyon,51300.0
+E0908,F,33,Comptable,Finance,Bac+5,4.5,3,0,Paris,45200.0
+E0909,F,41,Commercial,Ventes,Bac+3,10.8,2,0,Paris,49000.0
+E0910,H,32,Commercial,Ventes,Bac+5,12.2,4,0,Lille,56300.0
+E0911,H,34,Chef de projet,IT,Bac+3,14.0,4,11,Paris,84500.0
+E0912,H,37,Chef de projet,IT,Bac+3,10.2,4,16,Lille,74000.0
+E0913,H,32,Responsable,Management,Bac+5,5.5,2,4,Paris,82600.0
+E0914,H,35,Directeur,Direction,Bac+3,5.2,3,42,Paris,132000.0
+E0915,H,32,Directeur,Direction,Bac+3,4.8,4,79,Lille,105100.0
+E0916,F,32,Responsable,Management,Bac+3,2.4,3,3,Lyon,69100.0
+E0917,F,25,Assistant RH,RH,Bac+3,3.1,4,0,Paris,34300.0
+E0918,F,40,Comptable,Finance,Bac+3,12.8,3,0,Toulouse,47200.0
+E0919,F,25,Commercial,Ventes,Bac+5,3.7,3,0,Paris,46300.0
+E0920,H,31,Développeur,IT,Bac+3,2.4,3,0,Lyon,52100.0
+E0921,F,33,Assistant RH,RH,Bac+2,13.5,4,0,Lyon,39900.0
+E0922,F,36,Chef de projet,IT,Bac+5,7.4,2,19,Lyon,71900.0
+E0923,H,39,Développeur,IT,Bac+3,17.7,4,0,Lille,66200.0
+E0924,F,42,Développeur,IT,Bac+5,16.6,3,0,Paris,67100.0
+E0925,H,33,Comptable,Finance,Bac+2,2.6,2,0,Toulouse,36400.0
+E0926,H,34,Commercial,Ventes,Bac+5,5.9,4,0,Nantes,50400.0
+E0927,F,23,Comptable,Finance,Bac+3,2.9,3,0,Toulouse,38600.0
+E0928,H,27,Chef de projet,IT,Bac+5,2.9,3,20,Lille,66800.0
+E0929,H,26,Développeur,IT,Bac+2,4.7,5,0,Toulouse,50900.0
+E0930,H,30,Data Analyst,IT,Bac+5,9.6,4,0,Nantes,65700.0
+E0931,H,37,Commercial,Ventes,Bac+3,9.6,3,0,Lyon,50200.0
+E0932,H,38,Commercial,Ventes,Bac+5,8.9,4,0,Lyon,55100.0
+E0933,H,34,Commercial,Ventes,Bac+3,5.5,3,0,Nantes,46800.0
+E0934,F,39,Chef de projet,IT,Bac,10.0,3,19,Lyon,64600.0
+E0935,H,29,Chef de projet,IT,Bac+3,2.4,2,19,Lille,60500.0
+E0936,H,33,Comptable,Finance,Bac+2,7.5,2,0,Paris,45400.0
+E0937,H,29,Responsable,Management,Bac+3,6.5,3,21,Lille,78900.0
+E0938,H,31,Comptable,Finance,Bac+5,5.3,3,0,Paris,47300.0
+E0939,H,29,Responsable,Management,Bac+3,7.7,4,14,Toulouse,82900.0
+E0940,F,25,Assistant RH,RH,Bac,1.0,3,0,Paris,31200.0
+E0941,H,30,Commercial,Ventes,Bac,3.0,3,0,Paris,42600.0
+E0942,F,36,Chef de projet,IT,Bac+2,9.1,4,11,Lille,57300.0
+E0943,F,46,Comptable,Finance,Bac+2,6.4,5,0,Lille,41200.0
+E0944,H,23,Développeur,IT,Bac+5,1.8,3,0,Lille,47100.0
+E0945,H,33,Développeur,IT,Bac+2,6.3,4,0,Toulouse,54200.0
+E0946,H,26,Commercial,Ventes,Bac+5,4.3,4,0,Paris,55800.0
+E0947,F,38,Data Analyst,IT,Bac+2,13.0,2,0,Lille,53200.0
+E0948,H,28,Chef de projet,IT,Bac,2.5,3,23,Lyon,59900.0
+E0949,H,33,Chef de projet,IT,Bac+5,2.6,3,20,Lyon,70100.0
+E0950,H,34,Commercial,Ventes,Bac+2,8.3,4,0,Lyon,43600.0
+E0951,H,32,Développeur,IT,Bac+3,5.7,3,0,Paris,57500.0
+E0952,H,31,Commercial,Ventes,Doctorat,5.5,3,0,Nantes,51000.0
+E0953,H,45,Commercial,Ventes,Doctorat,23.2,4,0,Lille,67800.0
+E0954,H,34,Comptable,Finance,Bac+5,9.8,3,0,Paris,50900.0
+E0955,H,30,Responsable,Management,Bac,5.0,3,15,Toulouse,70400.0
+E0956,H,29,Responsable,Management,Bac+5,1.6,4,16,Lyon,82800.0
+E0957,H,34,Chef de projet,IT,Doctorat,4.8,5,11,Paris,81800.0
+E0958,F,28,Développeur,IT,Doctorat,2.3,4,0,Nantes,46500.0
+E0959,H,29,Développeur,IT,Bac+2,3.1,3,0,Paris,52100.0
+E0960,H,23,Développeur,IT,Bac+3,3.2,2,0,Paris,50300.0
+E0961,H,42,Développeur,IT,Bac+3,12.4,3,0,Nantes,56400.0
+E0962,H,26,Développeur,IT,Bac+2,1.9,3,0,Paris,47700.0
+E0963,F,42,Comptable,Finance,Bac+5,11.6,3,0,Paris,51700.0
+E0964,F,41,Comptable,Finance,Bac+2,8.6,4,0,Lille,41700.0
+E0965,F,35,Responsable,Management,Bac+3,8.5,4,23,Paris,91100.0
+E0966,H,26,Développeur,IT,Bac,3.0,3,0,Lille,43400.0
+E0967,H,38,Responsable,Management,Bac+3,10.6,3,24,Lille,82800.0
+E0968,F,31,Comptable,Finance,Bac+2,2.7,3,0,Paris,36800.0
+E0969,H,41,Développeur,IT,Bac+3,15.7,3,0,Lyon,67300.0
+E0970,F,37,Comptable,Finance,Bac+2,12.5,4,0,Paris,49400.0
+E0971,H,47,Commercial,Ventes,Doctorat,17.4,2,0,Nantes,61600.0
+E0972,H,35,Assistant RH,RH,Bac+2,6.5,4,0,Paris,39900.0
+E0973,H,31,Comptable,Finance,Bac+3,5.7,2,0,Toulouse,39200.0
+E0974,H,25,Responsable,Management,Bac+2,4.7,3,20,Paris,79100.0
+E0975,F,52,Commercial,Ventes,Bac,22.8,5,0,Nantes,56300.0
+E0976,F,33,Développeur,IT,Bac+2,9.5,2,0,Paris,53500.0
+E0977,F,30,Développeur,IT,Bac,2.3,2,0,Paris,42600.0
+E0978,F,42,Commercial,Ventes,Bac+2,14.6,3,0,Lyon,49600.0
+E0979,H,25,Développeur,IT,Bac+3,5.5,3,0,Nantes,50600.0
+E0980,H,28,Comptable,Finance,Bac+5,0.5,2,0,Toulouse,38300.0
+E0981,H,33,Directeur,Direction,Bac,3.6,1,54,Paris,115500.0
+E0982,F,42,Chef de projet,IT,Bac+3,12.5,2,24,Paris,76900.0
+E0983,F,36,Data Analyst,IT,Bac+5,8.6,3,0,Lyon,57800.0
+E0984,H,29,Développeur,IT,Bac+2,9.8,3,0,Lyon,54500.0
+E0985,H,47,Comptable,Finance,Bac+3,14.5,4,0,Toulouse,51400.0
+E0986,H,30,Responsable,Management,Bac,1.3,4,19,Toulouse,66800.0
+E0987,H,26,Commercial,Ventes,Bac+2,3.6,2,0,Toulouse,42100.0
+E0988,H,30,Assistant RH,RH,Bac+3,6.6,3,0,Paris,41100.0
+E0989,F,41,Commercial,Ventes,Doctorat,12.8,2,0,Lyon,55300.0
+E0990,H,32,Chef de projet,IT,Doctorat,2.7,3,15,Lille,67300.0
+E0991,H,30,Développeur,IT,Doctorat,5.0,3,0,Paris,59900.0
+E0992,H,37,Chef de projet,IT,Bac+3,6.3,4,23,Nantes,69600.0
+E0993,F,23,Chef de projet,IT,Bac,3.4,3,18,Paris,61200.0
+E0994,H,29,Comptable,Finance,Bac+3,6.3,3,0,Paris,46400.0
+E0995,H,24,Responsable,Management,Bac+2,5.6,4,12,Toulouse,74900.0
+E0996,H,28,Développeur,IT,Bac,4.2,4,0,Paris,53500.0
+E0997,H,44,Développeur,IT,Bac,10.6,3,0,Toulouse,52600.0
+E0998,F,45,Assistant RH,RH,Bac+3,9.3,3,0,Paris,38100.0
+E0999,H,39,Directeur,Direction,Bac+3,10.9,5,31,Paris,139300.0
+E1000,H,36,Commercial,Ventes,Bac+2,11.5,3,0,Paris,52800.0
+E1001,F,43,Assistant RH,RH,Bac+5,16.8,4,0,Paris,51500.0
+E1002,H,31,Développeur,IT,Bac+3,1.7,4,0,Lyon,51200.0
+E1003,H,23,Comptable,Finance,Bac+5,1.9,3,0,Paris,46400.0
+E1004,H,35,Comptable,Finance,Bac+2,10.0,3,0,Nantes,43900.0
+E1005,H,37,Développeur,IT,Bac+3,4.5,2,0,Toulouse,48300.0
+E1006,F,27,Commercial,Ventes,Bac+2,4.1,3,0,Lyon,40900.0
+E1007,H,28,Responsable,Management,Bac+3,3.6,3,20,Paris,82700.0
+E1008,H,38,Commercial,Ventes,Bac+2,11.1,4,0,Lyon,52300.0
+E1009,H,50,Data Analyst,IT,Bac+2,21.9,4,0,Lille,66200.0
+E1010,H,36,Développeur,IT,Bac+5,11.5,4,0,Nantes,65300.0
+E1011,H,32,Data Analyst,IT,Bac+2,4.3,5,0,Paris,59300.0
+E1012,H,40,Développeur,IT,Bac+2,10.8,4,0,Lyon,52800.0
+E1013,F,37,Développeur,IT,Bac+5,1.8,2,0,Lyon,45200.0
+E1014,F,32,Responsable,Management,Bac,5.4,3,17,Paris,78100.0
+E1015,F,28,Commercial,Ventes,Bac+5,1.3,3,0,Paris,46000.0
+E1016,H,38,Comptable,Finance,Bac+3,4.5,3,0,Toulouse,41900.0
+E1017,F,32,Data Analyst,IT,Bac+2,7.1,2,0,Paris,55000.0
+E1018,F,46,Chef de projet,IT,Bac+3,24.5,3,20,Paris,84700.0
+E1019,F,42,Assistant RH,RH,Bac,13.5,3,0,Paris,40000.0
+E1020,F,33,Développeur,IT,Bac+5,1.4,3,0,Nantes,48400.0
+E1021,F,30,Responsable,Management,Bac+2,1.5,4,2,Lyon,64600.0
+E1022,H,30,Data Analyst,IT,Bac+2,3.5,3,0,Paris,53700.0
+E1023,H,40,Directeur,Direction,Bac+3,18.8,3,63,Lyon,154100.0
+E1024,H,28,Développeur,IT,Bac+5,1.4,3,0,Nantes,49700.0
+E1025,H,36,Data Analyst,IT,Bac+5,3.6,3,0,Paris,62400.0
+E1026,F,26,Commercial,Ventes,Doctorat,3.6,3,0,Toulouse,48000.0
+E1027,H,34,Responsable,Management,Bac+5,8.3,3,14,Paris,92300.0
+E1028,H,36,Commercial,Ventes,Bac+5,10.9,3,0,Paris,59800.0
+E1029,H,34,Data Analyst,IT,Bac+3,9.4,4,0,Toulouse,57900.0
+E1030,H,35,Commercial,Ventes,Bac+5,7.5,2,0,Lille,47700.0
+E1031,H,31,Développeur,IT,Bac+3,1.8,5,0,Paris,55400.0
+E1032,H,35,Data Analyst,IT,Bac+3,6.7,4,0,Lille,58500.0
+E1033,H,38,Développeur,IT,Bac+5,14.7,3,0,Lyon,65700.0
+E1034,F,38,Responsable,Management,Bac+3,18.0,3,22,Paris,103300.0
+E1035,H,36,Développeur,IT,Bac+2,8.2,3,0,Lille,52000.0
+E1036,H,26,Data Analyst,IT,Bac+3,1.4,4,0,Lille,50500.0
+E1037,H,43,Commercial,Ventes,Bac+3,8.3,4,0,Paris,49200.0
+E1038,H,40,Développeur,IT,Bac+5,5.6,4,0,Nantes,56800.0
+E1039,F,37,Développeur,IT,Bac+3,1.6,4,0,Lyon,47000.0
+E1040,F,26,Comptable,Finance,Bac+5,2.6,3,0,Paris,44600.0
+E1041,F,32,Assistant RH,RH,Bac+3,3.0,4,0,Toulouse,28900.0
+E1042,H,40,Data Analyst,IT,Bac+5,10.0,3,0,Lyon,64800.0
+E1043,F,48,Data Analyst,IT,Bac+2,17.5,3,0,Nantes,63000.0
+E1044,F,35,Data Analyst,IT,Bac+5,9.0,3,0,Nantes,58400.0
+E1045,F,42,Assistant RH,RH,Bac+3,10.2,4,0,Nantes,38300.0
+E1046,F,33,Commercial,Ventes,Bac+2,5.9,1,0,Paris,43000.0
+E1047,H,32,Comptable,Finance,Bac+2,4.0,3,0,Toulouse,40000.0
+E1048,F,30,Chef de projet,IT,Bac+2,9.2,3,4,Nantes,62000.0
+E1049,F,37,Chef de projet,IT,Bac+3,7.6,5,10,Nantes,67400.0
+E1050,F,29,Commercial,Ventes,Bac+5,3.2,3,0,Lyon,47000.0
+E1051,H,36,Data Analyst,IT,Doctorat,7.3,3,0,Paris,68400.0
+E1052,F,34,Comptable,Finance,Bac+5,6.2,3,0,Paris,47300.0
+E1053,H,33,Commercial,Ventes,Bac+3,4.9,3,0,Lyon,47900.0
+E1054,H,31,Comptable,Finance,Bac+3,3.9,4,0,Paris,47900.0
+E1055,F,38,Commercial,Ventes,Bac+5,8.2,5,0,Nantes,54300.0
+E1056,H,30,Data Analyst,IT,Bac+5,4.1,4,0,Toulouse,57300.0
+E1057,F,43,Responsable,Management,Bac+2,22.0,4,4,Paris,95600.0
+E1058,F,38,Comptable,Finance,Doctorat,8.8,2,0,Paris,48200.0
+E1059,H,32,Développeur,IT,Bac+3,8.3,3,0,Nantes,53500.0
+E1060,F,27,Data Analyst,IT,Bac+5,5.5,3,0,Paris,57400.0
+E1061,H,28,Responsable,Management,Doctorat,4.6,4,11,Toulouse,85000.0
+E1062,H,29,Développeur,IT,Bac+5,1.1,3,0,Lyon,51300.0
+E1063,H,30,Commercial,Ventes,Bac+2,3.4,4,0,Paris,48000.0
+E1064,H,21,Développeur,IT,Bac+5,1.3,2,0,Paris,50500.0
+E1065,H,27,Commercial,Ventes,Bac+2,1.3,3,0,Toulouse,39600.0
+E1066,H,34,Directeur,Direction,Bac+5,2.2,3,34,Paris,130700.0
+E1067,F,39,Commercial,Ventes,Bac+2,13.8,4,0,Nantes,51700.0
+E1068,F,40,Data Analyst,IT,Bac+5,13.7,4,0,Paris,70000.0
+E1069,F,35,Assistant RH,RH,Bac+5,3.5,3,0,Paris,38100.0
+E1070,H,32,Commercial,Ventes,Bac+2,1.7,4,0,Toulouse,45300.0
+E1071,F,35,Chef de projet,IT,Bac+3,4.4,4,4,Paris,61500.0
+E1072,H,26,Développeur,IT,Bac+5,9.9,3,0,Paris,59200.0
+E1073,H,46,Développeur,IT,Bac+3,12.0,4,0,Lyon,65100.0
+E1074,H,37,Responsable,Management,Bac+2,7.2,3,12,Toulouse,72800.0
+E1075,H,45,Chef de projet,IT,Bac,8.1,3,7,Paris,66900.0
+E1076,H,31,Commercial,Ventes,Bac+3,7.6,2,0,Paris,49200.0
+E1077,H,21,Développeur,IT,Bac+5,1.4,3,0,Toulouse,49000.0
+E1078,H,29,Développeur,IT,Bac+5,1.9,3,0,Nantes,50800.0
+E1079,F,44,Développeur,IT,Bac+2,18.0,2,0,Toulouse,53400.0
+E1080,H,37,Commercial,Ventes,Bac+3,7.2,3,0,Lille,47100.0
+E1081,F,32,Commercial,Ventes,Bac+3,0.8,4,0,Nantes,42800.0
+E1082,H,35,Responsable,Management,Bac+2,8.4,3,22,Lyon,80600.0
+E1083,F,29,Responsable,Management,Bac+5,2.9,2,20,Paris,75600.0
+E1084,F,42,Chef de projet,IT,Bac+3,12.6,2,8,Lille,66300.0
+E1085,F,38,Directeur,Direction,Bac+3,11.7,3,67,Lille,128700.0
+E1086,H,35,Data Analyst,IT,Bac+5,9.6,4,0,Toulouse,63800.0
+E1087,F,38,Chef de projet,IT,Bac+3,7.1,4,9,Nantes,64300.0
+E1088,F,47,Chef de projet,IT,Bac+5,14.6,3,5,Paris,82900.0
+E1089,H,47,Développeur,IT,Bac,15.6,4,0,Lyon,60200.0
+E1090,H,29,Développeur,IT,Bac+2,3.0,3,0,Nantes,45700.0
+E1091,H,28,Commercial,Ventes,Bac+2,9.5,5,0,Lyon,51600.0
+E1092,H,30,Data Analyst,IT,Bac+5,3.9,2,0,Lille,53300.0
+E1093,H,27,Commercial,Ventes,Bac+5,2.6,3,0,Nantes,45400.0
+E1094,F,42,Commercial,Ventes,Bac+2,15.6,3,0,Paris,55400.0
+E1095,H,35,Développeur,IT,Bac+2,10.5,3,0,Nantes,56200.0
+E1096,H,34,Développeur,IT,Bac+3,7.5,2,0,Nantes,51400.0
+E1097,F,26,Comptable,Finance,Bac+5,3.2,2,0,Toulouse,37700.0
+E1098,H,38,Chef de projet,IT,Bac+5,15.9,3,17,Lyon,87400.0
+E1099,H,35,Chef de projet,IT,Bac+5,2.9,4,20,Nantes,70700.0
+E1100,H,25,Comptable,Finance,Bac+5,2.3,4,0,Lyon,43800.0
+E1101,F,33,Assistant RH,RH,Bac+2,6.2,2,0,Lyon,33300.0
+E1102,H,41,Commercial,Ventes,Bac+5,9.9,4,0,Paris,60900.0
+E1103,H,35,Chef de projet,IT,Bac+5,4.8,3,17,Toulouse,70500.0
+E1104,H,64,Chef de projet,IT,Bac+3,35.0,5,24,Toulouse,90500.0
+E1105,F,35,Comptable,Finance,Bac+5,7.0,2,0,Lyon,44900.0
+E1106,F,34,Chef de projet,IT,Bac,3.9,4,9,Nantes,58900.0
+E1107,F,37,Comptable,Finance,Bac+5,4.3,4,0,Paris,47000.0
+E1108,F,48,Commercial,Ventes,Bac+5,19.3,4,0,Nantes,60600.0
+E1109,H,25,Directeur,Direction,Bac+5,5.8,4,50,Lyon,131100.0
+E1110,F,40,Comptable,Finance,Bac+3,15.2,3,0,Lille,47800.0
+E1111,H,31,Comptable,Finance,Bac+3,1.3,4,0,Paris,43200.0
+E1112,H,37,Développeur,IT,Bac+5,12.8,3,0,Lille,59900.0
+E1113,H,37,Développeur,IT,Bac+5,3.3,3,0,Paris,55700.0
+E1114,H,37,Responsable,Management,Bac+3,10.7,5,12,Nantes,87800.0
+E1115,H,31,Directeur,Direction,Bac+5,3.3,3,59,Nantes,128400.0
+E1116,F,36,Assistant RH,RH,Bac+2,4.5,3,0,Paris,35600.0
+E1117,F,29,Comptable,Finance,Bac+5,2.5,4,0,Lyon,42100.0
+E1118,H,39,Chef de projet,IT,Bac+5,10.9,3,8,Lille,74300.0
+E1119,H,43,Commercial,Ventes,Bac+3,12.0,2,0,Nantes,49900.0
+E1120,H,25,Responsable,Management,Bac+3,3.4,3,5,Paris,73300.0
+E1121,H,27,Data Analyst,IT,Doctorat,1.6,4,0,Lyon,57000.0
+E1122,H,45,Comptable,Finance,Bac+5,15.1,4,0,Paris,57900.0
+E1123,F,31,Chef de projet,IT,Bac+5,3.8,2,6,Nantes,59300.0
+E1124,H,38,Comptable,Finance,Bac+3,5.6,3,0,Nantes,42400.0
+E1125,H,24,Développeur,IT,Doctorat,2.9,3,0,Paris,59300.0
+E1126,H,30,Développeur,IT,Bac+2,10.2,4,0,Nantes,55600.0
+E1127,H,40,Développeur,IT,Bac+3,10.3,4,0,Lille,58900.0
+E1128,F,47,Data Analyst,IT,Bac+3,16.7,5,0,Lille,65300.0
+E1129,F,39,Data Analyst,IT,Bac+5,13.0,3,0,Paris,68000.0
+E1130,F,41,Directeur,Direction,Bac+5,12.4,3,70,Paris,150600.0
+E1131,F,36,Directeur,Direction,Bac+5,6.0,3,27,Lyon,121400.0
+E1132,H,29,Développeur,IT,Bac+5,5.4,3,0,Paris,58600.0
+E1133,H,34,Assistant RH,RH,Bac+3,10.1,3,0,Lyon,40300.0
+E1134,H,33,Data Analyst,IT,Bac+3,5.7,2,0,Paris,55000.0
+E1135,H,44,Directeur,Direction,Bac+3,13.3,2,22,Paris,132000.0
+E1136,H,25,Commercial,Ventes,Bac,2.8,5,0,Nantes,44300.0
+E1137,H,27,Développeur,IT,Bac+3,1.2,2,0,Paris,46400.0
+E1138,F,35,Développeur,IT,Bac+5,9.3,3,0,Lille,56100.0
+E1139,H,33,Assistant RH,RH,Bac+5,4.2,4,0,Paris,42200.0
+E1140,F,29,Data Analyst,IT,Bac+5,2.4,1,0,Nantes,47200.0
+E1141,H,48,Commercial,Ventes,Bac+3,23.6,3,0,Lyon,58000.0
+E1142,H,38,Chef de projet,IT,Bac+3,6.4,3,14,Lille,69900.0
+E1143,H,27,Chef de projet,IT,Bac,1.9,3,3,Lille,55100.0
+E1144,H,30,Chef de projet,IT,Bac+3,3.8,3,14,Lyon,65800.0
+E1145,H,26,Développeur,IT,Bac+3,5.1,3,0,Nantes,51100.0
+E1146,H,33,Commercial,Ventes,Bac+2,9.1,3,0,Paris,51000.0
+E1147,H,33,Data Analyst,IT,Bac,3.8,1,0,Nantes,45100.0
+E1148,H,34,Chef de projet,IT,Bac+5,5.6,1,18,Paris,70800.0
+E1149,H,37,Développeur,IT,Bac+3,7.7,3,0,Lyon,54500.0
+E1150,H,38,Responsable,Management,Bac+3,8.7,3,17,Paris,93100.0
+E1151,H,41,Comptable,Finance,Bac+2,6.0,5,0,Toulouse,43500.0
+E1152,H,43,Chef de projet,IT,Bac+3,19.1,2,10,Lyon,77900.0
+E1153,H,31,Assistant RH,RH,Bac+3,10.2,3,0,Nantes,38100.0
+E1154,H,33,Comptable,Finance,Bac+3,9.8,3,0,Lyon,46600.0
+E1155,H,34,Développeur,IT,Bac+5,9.6,4,0,Paris,64300.0
+E1156,H,37,Assistant RH,RH,Bac,13.4,3,0,Paris,41400.0
+E1157,F,35,Assistant RH,RH,Bac+5,7.3,1,0,Toulouse,33600.0
+E1158,F,35,Assistant RH,RH,Bac,2.7,3,0,Lille,29500.0
+E1159,F,42,Développeur,IT,Bac+3,8.5,3,0,Paris,54300.0
+E1160,F,38,Chef de projet,IT,Bac+2,9.2,4,9,Lille,65000.0
+E1161,H,50,Assistant RH,RH,Bac+3,14.8,2,0,Lyon,41700.0
+E1162,F,28,Data Analyst,IT,Bac+2,2.5,4,0,Paris,54900.0
+E1163,F,24,Chef de projet,IT,Bac+5,3.1,3,6,Lyon,63400.0
+E1164,F,38,Comptable,Finance,Bac+3,6.5,4,0,Paris,47700.0
+E1165,F,29,Comptable,Finance,Bac+5,9.8,2,0,Paris,48300.0
+E1166,H,26,Chef de projet,IT,Bac+2,2.1,4,7,Nantes,62600.0
+E1167,H,32,Chef de projet,IT,Bac,2.6,4,22,Paris,66400.0
+E1168,F,38,Développeur,IT,Bac+3,11.4,3,0,Toulouse,54800.0
+E1169,H,28,Chef de projet,IT,Bac+3,2.2,3,11,Nantes,63800.0
+E1170,F,25,Assistant RH,RH,Bac+3,3.1,2,0,Lille,31600.0
+E1171,H,39,Commercial,Ventes,Doctorat,11.9,3,0,Nantes,51900.0
+E1172,H,41,Data Analyst,IT,Bac+5,9.7,4,0,Toulouse,64400.0
+E1173,F,31,Commercial,Ventes,Doctorat,3.8,3,0,Lyon,48100.0
+E1174,H,33,Chef de projet,IT,Bac+2,8.9,4,7,Lyon,72100.0
+E1175,H,30,Développeur,IT,Bac+5,7.8,4,0,Lyon,61900.0
+E1176,H,30,Chef de projet,IT,Bac+5,5.8,4,13,Toulouse,71900.0
+E1177,H,33,Développeur,IT,Bac+5,4.7,4,0,Paris,58600.0
+E1178,H,37,Commercial,Ventes,Doctorat,8.7,3,0,Nantes,47000.0
+E1179,H,26,Comptable,Finance,Bac+5,2.4,3,0,Lille,41700.0
+E1180,F,27,Comptable,Finance,Bac+5,8.6,2,0,Lyon,43000.0
+E1181,H,36,Chef de projet,IT,Bac+5,7.3,4,15,Toulouse,77100.0
+E1182,H,31,Comptable,Finance,Bac+2,7.7,5,0,Lyon,46600.0
+E1183,F,33,Assistant RH,RH,Bac+5,3.0,3,0,Paris,36800.0
+E1184,F,39,Comptable,Finance,Bac+3,15.0,5,0,Nantes,52600.0
+E1185,F,27,Comptable,Finance,Bac+5,3.8,5,0,Lyon,42900.0
+E1186,H,32,Chef de projet,IT,Bac+5,4.3,3,4,Paris,74300.0
+E1187,F,42,Commercial,Ventes,Bac+2,5.6,4,0,Paris,48100.0
+E1188,H,40,Directeur,Direction,Bac+2,9.7,3,23,Paris,120400.0
+E1189,F,35,Comptable,Finance,Bac,7.5,3,0,Lille,38600.0
+E1190,H,30,Data Analyst,IT,Bac+3,1.6,2,0,Toulouse,50000.0
+E1191,H,26,Développeur,IT,Bac,6.3,3,0,Lyon,48000.0
+E1192,F,29,Commercial,Ventes,Bac+5,6.7,4,0,Paris,52300.0
+E1193,H,32,Chef de projet,IT,Bac+5,15.2,3,23,Lyon,83900.0
+E1194,H,39,Directeur,Direction,Bac+5,5.0,4,55,Toulouse,139600.0
+E1195,H,42,Chef de projet,IT,Bac+2,9.1,4,11,Lille,67200.0
+E1196,F,59,Comptable,Finance,Bac+3,30.5,4,0,Paris,53700.0
+E1197,H,41,Comptable,Finance,Bac+2,13.6,3,0,Paris,50900.0
+E1198,F,24,Data Analyst,IT,Bac+5,2.8,3,0,Toulouse,50000.0
+E1199,F,37,Commercial,Ventes,Bac+2,10.6,2,0,Toulouse,44100.0
+E1200,H,43,Data Analyst,IT,Bac+2,8.7,3,0,Paris,62000.0
+E1201,H,32,Développeur,IT,Bac+2,4.9,2,0,Lille,46600.0
+E1202,H,35,Développeur,IT,Bac+5,10.6,2,0,Paris,61600.0
+E1203,F,23,Chef de projet,IT,Bac+2,2.8,3,9,Paris,61200.0
+E1204,H,36,Data Analyst,IT,Bac+5,3.9,3,0,Lille,54400.0
+E1205,F,32,Assistant RH,RH,Bac+5,5.7,3,0,Lyon,37100.0
+E1206,F,25,Assistant RH,RH,Bac+5,4.7,3,0,Lyon,35800.0
+E1207,H,33,Développeur,IT,Bac+2,9.9,4,0,Toulouse,54700.0
+E1208,F,28,Développeur,IT,Bac,6.2,3,0,Lille,43500.0
+E1209,F,31,Commercial,Ventes,Bac+3,4.4,4,0,Paris,47600.0
+E1210,H,41,Développeur,IT,Bac+2,13.4,3,0,Nantes,58500.0
+E1211,H,35,Chef de projet,IT,Bac+5,9.6,1,2,Lille,67400.0
+E1212,F,32,Chef de projet,IT,Bac+3,1.9,4,19,Nantes,61100.0
+E1213,F,29,Développeur,IT,Bac+3,1.8,4,0,Toulouse,45400.0
+E1214,F,36,Commercial,Ventes,Bac+2,4.4,3,0,Nantes,41500.0
+E1215,H,28,Commercial,Ventes,Bac+5,2.1,3,0,Paris,52400.0
+E1216,F,51,Développeur,IT,Bac+2,12.0,3,0,Paris,55600.0
+E1217,H,29,Commercial,Ventes,Bac+5,4.0,3,0,Lille,46700.0
+E1218,H,32,Développeur,IT,Bac,9.1,4,0,Toulouse,52000.0
+E1219,F,33,Data Analyst,IT,Doctorat,10.5,3,0,Paris,68100.0
+E1220,F,27,Assistant RH,RH,Bac+5,1.1,2,0,Paris,34200.0
+E1221,F,24,Assistant RH,RH,Bac+2,4.2,2,0,Lille,31300.0
+E1222,H,34,Comptable,Finance,Bac,5.5,2,0,Paris,40400.0
+E1223,H,27,Responsable,Management,Bac+3,7.7,3,20,Paris,90200.0
+E1224,H,39,Data Analyst,IT,Bac+2,11.6,3,0,Toulouse,59900.0
+E1225,F,46,Comptable,Finance,Bac+2,24.2,4,0,Lille,49500.0
+E1226,H,43,Responsable,Management,Bac+5,17.9,3,5,Toulouse,101900.0
+E1227,H,36,Développeur,IT,Bac+5,6.1,3,0,Nantes,56700.0
+E1228,F,42,Développeur,IT,Bac+2,6.1,3,0,Paris,54200.0
+E1229,H,39,Responsable,Management,Bac+5,16.7,3,16,Toulouse,102300.0
+E1230,H,33,Assistant RH,RH,Bac+2,6.4,3,0,Paris,37600.0
+E1231,F,28,Comptable,Finance,Doctorat,4.1,3,0,Paris,47300.0
+E1232,H,36,Développeur,IT,Bac,12.2,5,0,Toulouse,57700.0
+E1233,F,32,Comptable,Finance,Bac+5,8.0,5,0,Nantes,49600.0
+E1234,F,32,Data Analyst,IT,Bac+5,1.8,4,0,Toulouse,51600.0
+E1235,F,30,Comptable,Finance,Bac,5.1,4,0,Paris,41000.0
+E1236,F,38,Assistant RH,RH,Bac+2,2.2,3,0,Toulouse,30300.0
+E1237,F,29,Comptable,Finance,Bac+3,0.5,3,0,Nantes,36400.0
+E1238,H,42,Développeur,IT,Bac+5,19.5,3,0,Nantes,67200.0
+E1239,H,33,Comptable,Finance,Bac+3,7.0,4,0,Toulouse,45300.0
+E1240,F,29,Comptable,Finance,Bac+5,5.2,2,0,Lyon,39800.0
+E1241,F,35,Chef de projet,IT,Bac+5,4.4,3,5,Lille,63200.0
+E1242,H,27,Commercial,Ventes,Bac+5,6.5,1,0,Nantes,47000.0
+E1243,F,26,Commercial,Ventes,Bac+3,4.3,3,0,Lille,42600.0
+E1244,F,28,Assistant RH,RH,Bac+3,2.9,4,0,Toulouse,35400.0
+E1245,F,34,Commercial,Ventes,Bac+5,4.5,1,0,Nantes,42300.0
+E1246,H,48,Commercial,Ventes,Bac+2,15.6,3,0,Paris,58500.0
+E1247,F,45,Développeur,IT,Bac+5,12.0,3,0,Paris,62900.0
+E1248,F,34,Comptable,Finance,Bac,4.5,4,0,Toulouse,37100.0
+E1249,H,47,Responsable,Management,Bac+2,20.7,1,14,Toulouse,90500.0
+E1250,F,36,Responsable,Management,Bac+5,6.1,2,5,Toulouse,73500.0
+E1251,F,26,Assistant RH,RH,Bac+3,3.5,3,0,Paris,35100.0
+E1252,H,28,Comptable,Finance,Bac+2,8.3,3,0,Lyon,45500.0
+E1253,H,46,Comptable,Finance,Bac+2,17.2,4,0,Lille,49900.0
+E1254,F,38,Développeur,IT,Bac+3,15.2,3,0,Lille,54600.0
+E1255,H,30,Comptable,Finance,Bac+5,3.6,5,0,Paris,48500.0
+E1256,H,30,Chef de projet,IT,Bac,2.4,3,7,Nantes,54200.0
+E1257,H,33,Chef de projet,IT,Bac,4.9,3,22,Paris,58100.0
+E1258,H,40,Chef de projet,IT,Bac+3,9.2,5,8,Lyon,75200.0
+E1259,H,41,Développeur,IT,Doctorat,11.0,2,0,Paris,65400.0
+E1260,H,42,Directeur,Direction,Bac+2,13.8,4,36,Paris,148400.0
+E1261,F,33,Assistant RH,RH,Doctorat,7.3,1,0,Paris,40100.0
+E1262,H,35,Commercial,Ventes,Bac+5,7.4,3,0,Toulouse,51900.0
+E1263,F,32,Commercial,Ventes,Bac+2,7.1,2,0,Lille,40600.0
+E1264,F,39,Responsable,Management,Bac+5,12.6,3,20,Toulouse,91400.0
+E1265,F,49,Développeur,IT,Bac+5,11.1,4,0,Lyon,62500.0
+E1266,H,31,Chef de projet,IT,Bac+3,3.5,1,14,Lyon,61900.0
+E1267,F,39,Comptable,Finance,Bac+3,10.2,2,0,Lyon,43300.0
+E1268,H,36,Directeur,Direction,Bac+5,12.1,3,65,Nantes,141700.0
+E1269,H,44,Développeur,IT,Bac+5,12.8,3,0,Lyon,64900.0
+E1270,H,38,Développeur,IT,Bac+5,8.0,3,0,Lille,58300.0
+E1271,F,38,Responsable,Management,Doctorat,7.7,5,22,Lille,91000.0
+E1272,H,34,Commercial,Ventes,Bac+3,6.3,2,0,Toulouse,45000.0
+E1273,H,38,Commercial,Ventes,Bac+5,6.8,3,0,Paris,54400.0
+E1274,F,51,Développeur,IT,Bac+5,18.7,3,0,Lyon,64800.0
+E1275,H,35,Comptable,Finance,Bac+2,6.9,3,0,Paris,44400.0
+E1276,F,30,Commercial,Ventes,Bac,3.7,3,0,Paris,42800.0
+E1277,F,39,Comptable,Finance,Bac+3,8.1,4,0,Lille,42800.0
+E1278,F,34,Assistant RH,RH,Bac+5,10.8,3,0,Lyon,41900.0
+E1279,F,37,Chef de projet,IT,Bac+2,12.4,4,8,Lille,69000.0
+E1280,F,30,Développeur,IT,Bac+5,2.9,3,0,Paris,51700.0
+E1281,F,36,Commercial,Ventes,Bac,16.3,3,0,Toulouse,48400.0
+E1282,F,41,Développeur,IT,Bac+3,10.5,4,0,Toulouse,54600.0
+E1283,H,39,Développeur,IT,Bac+5,15.7,4,0,Lyon,68400.0
+E1284,H,27,Développeur,IT,Bac+2,2.0,4,0,Toulouse,49700.0
+E1285,F,39,Responsable,Management,Bac+5,13.1,3,5,Paris,97500.0
+E1286,H,30,Responsable,Management,Bac+2,2.7,5,8,Lille,73700.0
+E1287,H,31,Commercial,Ventes,Bac+5,5.3,4,0,Toulouse,51000.0
+E1288,H,38,Commercial,Ventes,Bac+2,10.8,4,0,Lille,48500.0
+E1289,H,29,Développeur,IT,Doctorat,2.5,4,0,Lille,54400.0
+E1290,H,30,Développeur,IT,Bac+5,4.3,5,0,Lyon,56700.0
+E1291,H,26,Développeur,IT,Bac,2.0,3,0,Lille,44500.0
+E1292,F,42,Data Analyst,IT,Bac,10.6,4,0,Nantes,52000.0
+E1293,H,22,Développeur,IT,Bac,3.4,4,0,Paris,50700.0
+E1294,H,33,Commercial,Ventes,Bac+5,6.6,4,0,Paris,55100.0
+E1295,H,34,Commercial,Ventes,Bac+5,8.7,4,0,Lille,53200.0
+E1296,H,37,Commercial,Ventes,Bac+3,8.1,2,0,Nantes,48100.0
+E1297,F,29,Assistant RH,RH,Bac+3,7.6,3,0,Lyon,37400.0
+E1298,F,33,Comptable,Finance,Bac+5,7.6,3,0,Toulouse,43800.0
+E1299,H,29,Data Analyst,IT,Bac+3,2.1,4,0,Nantes,53900.0
+E1300,H,37,Commercial,Ventes,Bac+5,5.5,4,0,Lyon,51200.0
+E1301,H,36,Comptable,Finance,Bac+3,7.5,4,0,Lyon,46300.0
+E1302,H,29,Développeur,IT,Bac+5,6.9,4,0,Nantes,59100.0
+E1303,F,31,Chef de projet,IT,Doctorat,6.0,3,14,Lille,69700.0
+E1304,H,34,Commercial,Ventes,Bac+3,3.8,2,0,Nantes,42900.0
+E1305,F,30,Chef de projet,IT,Bac,7.9,3,11,Lyon,60800.0
+E1306,F,36,Responsable,Management,Bac+2,9.0,4,18,Lille,79500.0
+E1307,H,32,Développeur,IT,Bac+5,4.8,3,0,Lille,51000.0
+E1308,H,38,Data Analyst,IT,Bac+3,12.5,4,0,Lille,61700.0
+E1309,F,54,Assistant RH,RH,Doctorat,16.5,5,0,Paris,54100.0
+E1310,F,32,Responsable,Management,Bac+5,6.7,3,13,Lille,76600.0
+E1311,F,32,Commercial,Ventes,Bac+3,3.6,4,0,Lyon,43400.0
+E1312,H,26,Responsable,Management,Bac+5,2.5,3,15,Paris,86000.0
+E1313,H,34,Développeur,IT,Bac+2,5.2,3,0,Nantes,47700.0
+E1314,F,37,Assistant RH,RH,Bac+5,6.4,3,0,Lille,36000.0
+E1315,F,27,Assistant RH,RH,Bac,2.4,3,0,Lyon,29600.0
+E1316,H,32,Data Analyst,IT,Bac+5,5.1,2,0,Lille,54000.0
+E1317,H,35,Développeur,IT,Doctorat,12.0,3,0,Paris,67500.0
+E1318,F,23,Assistant RH,RH,Bac+5,0.9,2,0,Paris,35000.0
+E1319,H,38,Data Analyst,IT,Bac+5,7.0,3,0,Lyon,61000.0
+E1320,H,29,Chef de projet,IT,Bac+3,4.3,3,19,Lyon,69700.0
+E1321,H,24,Développeur,IT,Bac+5,6.5,3,0,Nantes,54500.0
+E1322,H,51,Développeur,IT,Bac+5,17.1,4,0,Lille,71200.0
+E1323,F,30,Assistant RH,RH,Bac+5,6.3,3,0,Lille,34400.0
+E1324,H,32,Chef de projet,IT,Bac,5.6,2,17,Paris,62200.0
+E1325,H,44,Commercial,Ventes,Bac+2,10.1,5,0,Lyon,55700.0
+E1326,H,34,Chef de projet,IT,Bac+5,8.0,4,5,Paris,80400.0
+E1327,H,33,Commercial,Ventes,Bac,7.0,4,0,Nantes,45800.0
+E1328,F,30,Développeur,IT,Bac+5,8.2,4,0,Paris,61300.0
+E1329,H,35,Commercial,Ventes,Bac+5,14.2,2,0,Lyon,57700.0
+E1330,H,38,Comptable,Finance,Bac+5,11.5,4,0,Lille,50700.0
+E1331,F,34,Chef de projet,IT,Bac+2,5.4,3,22,Nantes,61700.0
+E1332,H,45,Développeur,IT,Doctorat,16.5,3,0,Paris,76000.0
+E1333,H,30,Développeur,IT,Bac,4.5,2,0,Paris,48700.0
+E1334,H,34,Responsable,Management,Bac+3,7.0,4,16,Nantes,85700.0
+E1335,H,27,Responsable,Management,Bac+5,7.6,3,18,Lyon,91400.0
+E1336,H,34,Chef de projet,IT,Bac,5.2,3,22,Paris,68500.0
+E1337,F,43,Comptable,Finance,Bac,15.4,2,0,Toulouse,40700.0
+E1338,H,40,Développeur,IT,Bac,5.0,4,0,Lyon,51200.0
+E1339,F,33,Chef de projet,IT,Bac+3,5.9,3,12,Lyon,63000.0
+E1340,F,36,Commercial,Ventes,Bac+5,12.6,3,0,Paris,58100.0
+E1341,F,31,Assistant RH,RH,Bac+2,4.6,3,0,Lyon,32900.0
+E1342,H,28,Chef de projet,IT,Bac+2,2.3,4,16,Paris,67200.0
+E1343,H,36,Développeur,IT,Bac+5,7.1,3,0,Paris,61600.0
+E1344,F,30,Développeur,IT,Bac+2,2.9,5,0,Nantes,47900.0
+E1345,F,25,Directeur,Direction,Bac+5,2.6,3,39,Lyon,115500.0
+E1346,H,21,Développeur,IT,Doctorat,0.9,2,0,Toulouse,48800.0
+E1347,F,29,Développeur,IT,Bac+5,1.1,3,0,Toulouse,46900.0
+E1348,F,34,Commercial,Ventes,Bac+5,1.1,2,0,Paris,43800.0
+E1349,H,45,Développeur,IT,Bac+3,17.9,3,0,Paris,68500.0
+E1350,F,31,Comptable,Finance,Bac+5,1.1,3,0,Lille,37600.0
+E1351,F,34,Chef de projet,IT,Bac+2,2.9,4,14,Toulouse,63000.0
+E1352,H,34,Chef de projet,IT,Bac,6.0,3,16,Toulouse,62100.0
+E1353,H,34,Commercial,Ventes,Bac+5,9.8,3,0,Paris,54700.0
+E1354,F,38,Commercial,Ventes,Bac,10.5,3,0,Paris,49700.0
+E1355,H,35,Chef de projet,IT,Bac+5,3.6,2,8,Paris,69800.0
+E1356,H,36,Assistant RH,RH,Bac+5,6.9,2,0,Lille,37000.0
+E1357,H,36,Développeur,IT,Doctorat,5.9,3,0,Nantes,56500.0
+E1358,H,32,Développeur,IT,Bac+3,6.6,2,0,Lyon,50400.0
+E1359,H,33,Data Analyst,IT,Bac+3,7.3,2,0,Nantes,57400.0
+E1360,F,35,Comptable,Finance,Bac+5,8.6,5,0,Paris,51800.0
+E1361,H,31,Data Analyst,IT,Bac+2,4.2,4,0,Nantes,50800.0
+E1362,H,45,Commercial,Ventes,Bac+3,13.8,4,0,Paris,61100.0
+E1363,H,23,Développeur,IT,Bac+5,5.0,3,0,Nantes,55300.0
+E1364,F,51,Assistant RH,RH,Doctorat,23.6,4,0,Lille,48100.0
+E1365,H,31,Développeur,IT,Bac+5,4.4,3,0,Nantes,51900.0
+E1366,F,29,Développeur,IT,Bac+2,7.0,2,0,Paris,49000.0
+E1367,F,36,Comptable,Finance,Bac+3,5.9,4,0,Lille,39800.0
+E1368,F,31,Comptable,Finance,Bac+5,6.8,2,0,Lille,42500.0
+E1369,H,38,Comptable,Finance,Bac+2,12.9,3,0,Paris,49800.0
+E1370,F,40,Commercial,Ventes,Bac+3,5.7,4,0,Paris,47600.0
+E1371,F,34,Assistant RH,RH,Bac+2,2.6,3,0,Nantes,31400.0
+E1372,H,33,Responsable,Management,Bac+2,4.2,3,6,Paris,76300.0
+E1373,F,34,Commercial,Ventes,Bac+3,5.7,3,0,Paris,47500.0
+E1374,F,34,Chef de projet,IT,Bac+2,7.4,2,10,Paris,63200.0
+E1375,F,39,Directeur,Direction,Bac+5,3.6,5,41,Paris,127300.0
+E1376,F,34,Assistant RH,RH,Bac+2,3.9,2,0,Lyon,32300.0
+E1377,F,32,Data Analyst,IT,Bac+5,7.6,3,0,Nantes,57700.0
+E1378,H,29,Chef de projet,IT,Bac+2,7.8,3,21,Paris,75100.0
+E1379,H,41,Développeur,IT,Bac+5,11.7,4,0,Lille,62100.0
+E1380,F,31,Développeur,IT,Bac,4.1,4,0,Paris,48800.0
+E1381,F,30,Développeur,IT,Bac+3,9.2,3,0,Paris,55800.0
+E1382,F,35,Assistant RH,RH,Bac+3,5.9,5,0,Paris,39800.0
+E1383,H,31,Développeur,IT,Bac+2,4.6,2,0,Lille,47200.0
+E1384,H,35,Directeur,Direction,Bac+3,6.1,4,39,Toulouse,127600.0
+E1385,H,35,Responsable,Management,Bac+5,6.7,2,18,Lyon,80800.0
+E1386,F,27,Assistant RH,RH,Bac+5,2.3,3,0,Paris,36600.0
+E1387,F,32,Data Analyst,IT,Bac+3,2.5,2,0,Paris,47200.0
+E1388,H,35,Commercial,Ventes,Bac+2,10.1,5,0,Paris,59200.0
+E1389,F,30,Responsable,Management,Bac+5,4.9,4,16,Lille,81700.0
+E1390,F,32,Assistant RH,RH,Bac+5,7.5,3,0,Paris,39900.0
+E1391,F,41,Responsable,Management,Bac+2,9.9,3,14,Toulouse,79100.0
+E1392,H,32,Chef de projet,IT,Bac+5,6.1,3,17,Nantes,72200.0
+E1393,F,42,Comptable,Finance,Bac+3,9.3,3,0,Lyon,44800.0
+E1394,F,41,Assistant RH,RH,Bac+5,6.7,3,0,Lille,37100.0
+E1395,H,31,Chef de projet,IT,Bac+3,6.9,1,12,Paris,66200.0
+E1396,F,29,Comptable,Finance,Bac+3,13.5,4,0,Lille,47400.0
+E1397,H,37,Développeur,IT,Bac+2,5.6,3,0,Paris,54700.0
+E1398,F,36,Responsable,Management,Bac+5,10.1,4,5,Lille,82900.0
+E1399,H,26,Développeur,IT,Bac+2,2.0,3,0,Lyon,46600.0
+E1400,H,32,Commercial,Ventes,Bac+5,7.3,3,0,Paris,53000.0
+E1401,H,41,Développeur,IT,Bac+5,15.7,3,0,Lille,64900.0
+E1402,H,57,Assistant RH,RH,Bac+5,24.6,2,0,Paris,49900.0
+E1403,F,30,Responsable,Management,Bac,2.1,3,12,Paris,65900.0
+E1404,H,37,Commercial,Ventes,Bac+2,4.9,4,0,Lille,44600.0
+E1405,F,32,Comptable,Finance,Bac+3,3.0,2,0,Lyon,37500.0
+E1406,H,32,Commercial,Ventes,Bac+5,5.8,3,0,Toulouse,48900.0
+E1407,H,37,Responsable,Management,Bac+5,11.2,4,5,Nantes,90800.0
+E1408,F,43,Assistant RH,RH,Bac+3,13.9,3,0,Nantes,38200.0
+E1409,H,44,Chef de projet,IT,Bac+5,14.1,3,8,Paris,89200.0
+E1410,H,33,Data Analyst,IT,Bac+2,1.9,4,0,Paris,50200.0
+E1411,H,33,Chef de projet,IT,Bac+3,6.6,3,22,Toulouse,68500.0
+E1412,F,32,Directeur,Direction,Bac,4.1,2,51,Paris,101300.0
+E1413,H,35,Chef de projet,IT,Bac+5,5.6,4,16,Lyon,76800.0
+E1414,H,30,Responsable,Management,Bac+2,4.5,4,4,Paris,79600.0
+E1415,F,24,Comptable,Finance,Bac+2,2.0,2,0,Paris,37400.0
+E1416,F,38,Chef de projet,IT,Bac+5,13.9,2,23,Nantes,78900.0
+E1417,F,30,Développeur,IT,Bac+3,3.6,4,0,Lille,48600.0
+E1418,H,34,Développeur,IT,Bac,4.1,3,0,Lille,44900.0
+E1419,F,48,Responsable,Management,Bac,15.8,3,19,Toulouse,81200.0
+E1420,H,23,Responsable,Management,Bac+3,1.7,3,13,Paris,76200.0
+E1421,H,33,Data Analyst,IT,Bac+3,8.6,4,0,Lyon,62000.0
+E1422,F,38,Développeur,IT,Bac+2,12.3,3,0,Paris,59400.0
+E1423,F,45,Développeur,IT,Bac+5,15.0,2,0,Lille,57700.0
+E1424,H,33,Commercial,Ventes,Bac+2,8.2,2,0,Paris,51000.0
+E1425,F,36,Commercial,Ventes,Bac+5,10.3,3,0,Nantes,51800.0
+E1426,H,34,Commercial,Ventes,Bac+3,12.3,4,0,Paris,59600.0
+E1427,F,35,Assistant RH,RH,Bac+2,5.9,3,0,Lille,34600.0
+E1428,F,30,Assistant RH,RH,Bac+2,3.2,3,0,Lille,32200.0
+E1429,F,41,Chef de projet,IT,Bac+2,16.6,4,18,Toulouse,80500.0
+E1430,H,36,Développeur,IT,Bac,9.6,3,0,Paris,53600.0
+E1431,H,38,Responsable,Management,Bac+3,6.6,3,13,Toulouse,83000.0
+E1432,F,25,Développeur,IT,Bac+5,2.1,2,0,Paris,50000.0
+E1433,F,24,Assistant RH,RH,Bac+5,0.7,4,0,Paris,36600.0
+E1434,H,41,Comptable,Finance,Bac+3,8.5,4,0,Paris,47000.0
+E1435,H,28,Comptable,Finance,Bac+5,0.7,4,0,Paris,45300.0
+E1436,H,36,Directeur,Direction,Bac+5,6.5,3,39,Nantes,109300.0
+E1437,F,32,Comptable,Finance,Bac+5,3.7,3,0,Paris,44400.0
+E1438,F,31,Développeur,IT,Bac+2,4.5,2,0,Lyon,43900.0
+E1439,F,40,Responsable,Management,Bac+2,14.2,5,13,Nantes,91400.0
+E1440,F,34,Directeur,Direction,Bac+3,3.8,2,40,Lille,105200.0
+E1441,H,38,Commercial,Ventes,Bac,6.8,3,0,Nantes,46200.0
+E1442,F,35,Assistant RH,RH,Bac+3,3.8,4,0,Nantes,33500.0
+E1443,H,30,Comptable,Finance,Bac+5,7.9,2,0,Paris,50300.0
+E1444,F,39,Assistant RH,RH,Bac+5,7.2,3,0,Lille,35100.0
+E1445,F,32,Comptable,Finance,Bac+2,6.5,2,0,Paris,41000.0
+E1446,H,36,Développeur,IT,Bac+3,12.3,3,0,Paris,61800.0
+E1447,F,28,Responsable,Management,Bac+3,1.7,5,24,Paris,80100.0
+E1448,H,32,Développeur,IT,Bac+3,1.3,3,0,Nantes,46500.0
+E1449,H,32,Développeur,IT,Bac+5,2.4,5,0,Lyon,54300.0
+E1450,H,33,Comptable,Finance,Bac,7.2,2,0,Nantes,37000.0
+E1451,F,39,Chef de projet,IT,Bac+5,8.9,3,24,Paris,78400.0
+E1452,H,28,Développeur,IT,Doctorat,0.3,4,0,Lyon,47500.0
+E1453,F,34,Chef de projet,IT,Bac+5,8.8,4,8,Lyon,75400.0
+E1454,H,29,Responsable,Management,Bac+5,5.0,3,16,Paris,88200.0
+E1455,H,45,Commercial,Ventes,Bac+3,16.8,4,0,Lyon,61900.0
+E1456,F,35,Assistant RH,RH,Bac+3,8.4,4,0,Nantes,36200.0
+E1457,F,37,Commercial,Ventes,Bac+2,15.6,4,0,Lyon,47100.0
+E1458,F,44,Développeur,IT,Bac+5,13.8,3,0,Paris,58300.0
+E1459,F,30,Responsable,Management,Bac,5.0,2,21,Nantes,67100.0
+E1460,H,45,Commercial,Ventes,Bac+5,11.3,2,0,Paris,47900.0
+E1461,H,26,Chef de projet,IT,Bac+3,5.0,3,6,Paris,70600.0
+E1462,H,44,Développeur,IT,Bac+3,18.2,3,0,Paris,68100.0
+E1463,F,30,Comptable,Finance,Bac+3,5.4,3,0,Lyon,39800.0
+E1464,H,32,Commercial,Ventes,Doctorat,9.1,3,0,Paris,60400.0
+E1465,F,45,Data Analyst,IT,Bac+2,20.3,3,0,Nantes,62300.0
+E1466,H,43,Data Analyst,IT,Bac+2,9.4,3,0,Paris,60500.0
+E1467,H,32,Développeur,IT,Bac+2,4.6,3,0,Lille,46800.0
+E1468,F,26,Commercial,Ventes,Bac+5,2.2,3,0,Paris,46100.0
+E1469,H,21,Data Analyst,IT,Doctorat,1.7,2,0,Nantes,53600.0
+E1470,F,29,Comptable,Finance,Bac+2,8.8,4,0,Lille,42500.0
+E1471,H,31,Responsable,Management,Bac+5,6.1,3,4,Lyon,81800.0
+E1472,H,27,Comptable,Finance,Bac+2,2.5,2,0,Paris,40500.0
+E1473,F,37,Comptable,Finance,Bac+5,10.5,3,0,Lyon,47800.0
+E1474,H,28,Développeur,IT,Bac,10.4,3,0,Toulouse,50600.0
+E1475,H,33,Développeur,IT,Bac+3,6.0,3,0,Toulouse,49700.0
+E1476,H,47,Développeur,IT,Bac+5,16.0,3,0,Paris,69000.0
+E1477,H,35,Développeur,IT,Bac+3,1.4,3,0,Lille,45500.0
+E1478,H,24,Directeur,Direction,Bac+2,4.7,4,79,Paris,133100.0
+E1479,H,33,Développeur,IT,Bac+5,9.4,2,0,Paris,62400.0
+E1480,H,26,Développeur,IT,Doctorat,2.7,3,0,Nantes,54900.0
+E1481,H,39,Développeur,IT,Bac+3,11.2,1,0,Lyon,57100.0
+E1482,F,36,Assistant RH,RH,Bac+5,13.4,3,0,Lyon,42000.0
+E1483,F,34,Développeur,IT,Bac+5,0.4,3,0,Lille,47300.0
+E1484,H,44,Commercial,Ventes,Bac+2,16.4,4,0,Paris,63300.0
+E1485,F,36,Développeur,IT,Bac+5,9.0,2,0,Nantes,52800.0
+E1486,F,38,Assistant RH,RH,Bac+2,4.3,3,0,Lyon,33300.0
+E1487,F,29,Directeur,Direction,Bac+5,1.8,3,77,Paris,132400.0
+E1488,H,41,Développeur,IT,Bac+2,12.2,3,0,Lyon,56800.0
+E1489,F,26,Responsable,Management,Bac+2,2.4,4,24,Toulouse,71400.0
+E1490,H,31,Développeur,IT,Bac+3,9.0,2,0,Lyon,53100.0
+E1491,F,27,Assistant RH,RH,Bac+3,2.4,3,0,Paris,32800.0
+E1492,H,42,Chef de projet,IT,Bac+5,6.4,3,10,Nantes,70700.0
+E1493,F,41,Data Analyst,IT,Doctorat,11.8,4,0,Toulouse,65800.0
+E1494,H,32,Chef de projet,IT,Bac+2,4.4,2,11,Toulouse,58600.0
+E1495,H,39,Développeur,IT,Bac+2,16.3,5,0,Nantes,64600.0
+E1496,H,40,Développeur,IT,Bac+3,9.5,5,0,Lyon,58200.0
+E1497,H,24,Chef de projet,IT,Bac+3,2.7,4,6,Nantes,64500.0
+E1498,F,23,Développeur,IT,Bac+3,2.0,3,0,Lille,45000.0
+E1499,H,28,Commercial,Ventes,Bac+5,3.4,4,0,Toulouse,48500.0
+E1500,F,41,Data Analyst,IT,Bac+5,6.2,2,0,Lille,52700.0
